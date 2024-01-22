@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.18.1.final using JasperReports Library version 6.18.1-9d75d1969e774d4f179fb3be8401e98a0e6d1611  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="6304015-Tindakan_dan_pemeriksaan,penunjang_neurologi" pageWidth="595" pageHeight="400" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="82e38596-a012-473b-9f3e-251c8a80c5db">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="KOSONG"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<columnHeader>
+		<band height="38" splitType="Stretch">
+			<staticText>
+				<reportElement x="194" y="0" width="167" height="19" uuid="5c6dbb85-892c-466f-8a78-20737ae31257"/>
+				<textElement>
+					<font size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[BLUD RSJ SAMBANG LIHUM]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="156" y="19" width="250" height="19" uuid="29758f01-feae-48a9-aca2-2281250174b2"/>
+				<textElement>
+					<font size="10" isBold="false"/>
+				</textElement>
+				<text><![CDATA[Jl. Gubernur Syarkawi KM 3,9 Kec. Gambut Kab, Banjar]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="195" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="42" width="69" height="16" uuid="b0ebfb1d-7da7-446d-a865-08c5c3adaee3"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Nama]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="62" width="69" height="16" uuid="0fffb8bc-ffc7-494d-87b5-b4e43df6041b"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Nomor RM]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="83" width="69" height="16" uuid="3de26675-60b2-4b4e-94a7-b7379eec1975"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Ruang]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="104" width="69" height="16" uuid="3052d845-89cf-483c-8a43-1ac1d2c34028"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Assesment]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="69" y="42" width="7" height="16" uuid="b2b03a0d-7f93-4729-a281-ba487d2b0c07"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="69" y="62" width="7" height="16" uuid="bc422a80-a6fc-42a9-99c0-cf7281a4f9a9"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="69" y="83" width="7" height="16" uuid="14ece280-2311-4546-a660-7b38a821507b"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="69" y="104" width="7" height="16" uuid="f807feb9-edec-4a8a-8f1f-26389a9f3d45"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="174" y="16" width="202" height="19" uuid="c9d76b7e-369c-476d-b340-2828d63a2588"/>
+				<box>
+					<bottomPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Bottom">
+					<font size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[PENGANTAR BIAYA ASSESMENT]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="132" width="310" height="14" uuid="8af00519-b2c6-4e09-bc92-509a8c0f3bb1">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<text><![CDATA[Assesment]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="310" y="132" width="96" height="14" uuid="b5f41de2-f6af-48f2-be3a-e1373f7bb4fc">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<text><![CDATA[Jumlah]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="406" y="132" width="150" height="14" uuid="01d2d15f-042e-4c3d-8501-28295d8e29aa">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<text><![CDATA[Keterangan]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="146" width="310" height="26" uuid="30da3787-21a2-4f47-a67a-806f4b4bd0e4">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<box>
+					<leftPen lineWidth="0.5"/>
+					<bottomPen lineWidth="0.5"/>
+					<rightPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<text><![CDATA[]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="310" y="146" width="96" height="26" uuid="bcd17b8a-e281-4906-bac6-37958ec696a9">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<box>
+					<leftPen lineWidth="0.5"/>
+					<bottomPen lineWidth="0.5"/>
+					<rightPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<text><![CDATA[]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="406" y="146" width="150" height="26" uuid="d5e65c90-d7cc-4c28-af33-9ec60418f30e">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<box>
+					<leftPen lineWidth="0.5"/>
+					<bottomPen lineWidth="0.5"/>
+					<rightPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<text><![CDATA[]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="172" width="189" height="20" uuid="d18f7a76-9d90-44d4-89be-4e8bcd50b1a1"/>
+				<textElement>
+					<font size="9" isItalic="true"/>
+				</textElement>
+				<text><![CDATA[* Lingkari Sesuai Tindakan]]></text>
+			</staticText>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="113" splitType="Stretch">
+			<staticText>
+				<reportElement x="370" y="1" width="168" height="20" uuid="7cd6beb2-5579-47c3-a370-8e4a6c87ed88"/>
+				<textElement textAlignment="Center">
+					<font isBold="false"/>
+				</textElement>
+				<text><![CDATA[Gambut, ......................20]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="363" y="73" width="179" height="20" uuid="0f19e01d-b6ba-463b-8146-bc94b4da6bc6"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA["Nama"]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="363" y="93" width="180" height="20" uuid="dcdff3bf-feff-4348-a6cd-587b89689ada"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA["NIP"]]></textFieldExpression>
+			</textField>
+		</band>
+	</columnFooter>
+</jasperReport>

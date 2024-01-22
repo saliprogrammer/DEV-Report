@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.18.1.final using JasperReports Library version 6.18.1-9d75d1969e774d4f179fb3be8401e98a0e6d1611  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="6304015-Tindakan_dan_pemeriksaan,penunjang_neurologi" pageWidth="595" pageHeight="400" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="82e38596-a012-473b-9f3e-251c8a80c5db">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="KOSONG"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<columnHeader>
+		<band height="72" splitType="Stretch">
+			<staticText>
+				<reportElement stretchType="RelativeToTallestObject" x="69" y="0" width="410" height="39" uuid="7119d55f-df85-45e9-8e74-da09a8013cb7"/>
+				<textElement textAlignment="Center">
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[PEMERINTAH PROVINSI KALIMANTAN SELATAN
+BLUD RUMAH SAKIT JIWA SAMBANG LIHUM]]></text>
+			</staticText>
+			<line>
+				<reportElement x="-10" y="71" width="580" height="1" uuid="36110c93-9efd-458b-9b00-a9bec66eb640"/>
+				<graphicElement>
+					<pen lineWidth="2.0" lineStyle="Solid"/>
+				</graphicElement>
+			</line>
+			<image scaleImage="FillFrame">
+				<reportElement x="15" y="0" width="65" height="70" uuid="582db810-8141-4d8e-b49f-eedac9f401ec"/>
+				<imageExpression><![CDATA["C:/Users/cacan/OneDrive/Pictures/logo pemrov kalsel.jpg"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="487" y="5" width="60" height="66" uuid="32736905-68d2-41c9-9da9-c1721756763f"/>
+				<imageExpression><![CDATA["C:/Users/cacan/OneDrive/Pictures/logo-rsj.png"]]></imageExpression>
+			</image>
+			<staticText>
+				<reportElement x="91" y="30" width="379" height="40" uuid="080382d0-5bf0-4f91-81fb-6851cbf2d524"/>
+				<textElement textAlignment="Center">
+					<font fontName="&#xD;&#xA;Serif" size="9" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Jln. Gubernur Syarkawi KM.3,9 Gambut - Kabupaten Banjar. PO BOX 250
+Telp (0511) 6730000-6730001-6730002, IGD (0511) 6730003 Fax. (0511) 6730006
+Website: www.sambanglihum.info, Email: rsjsambanglihum@yahoo.com]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="170" splitType="Stretch">
+			<staticText>
+				<reportElement x="210" y="6" width="150" height="20" uuid="2e3a6955-f361-48ab-a58e-e30d3792ecc3">
+					<property name="com.jaspersoft.studio.unit.spacingBefore" value="px"/>
+					<property name="com.jaspersoft.studio.unit.leftIndent" value="px"/>
+				</reportElement>
+				<box>
+					<bottomPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center">
+					<font size="11" isBold="true"/>
+					<paragraph leftIndent="0" spacingBefore="6"/>
+				</textElement>
+				<text><![CDATA[TINDAKAN KEPERAWATAN]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-9" y="52" width="100" height="16" uuid="b0ebfb1d-7da7-446d-a865-08c5c3adaee3"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Nama]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-9" y="72" width="100" height="16" uuid="0fffb8bc-ffc7-494d-87b5-b4e43df6041b"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Umur]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-9" y="93" width="100" height="16" uuid="3de26675-60b2-4b4e-94a7-b7379eec1975"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Diagnosa]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-9" y="114" width="100" height="16" uuid="3052d845-89cf-483c-8a43-1ac1d2c34028"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Jenis Tindakan]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="91" y="52" width="7" height="16" uuid="b2b03a0d-7f93-4729-a281-ba487d2b0c07"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="91" y="72" width="7" height="16" uuid="bc422a80-a6fc-42a9-99c0-cf7281a4f9a9"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="91" y="93" width="7" height="16" uuid="14ece280-2311-4546-a660-7b38a821507b"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="91" y="114" width="7" height="16" uuid="f807feb9-edec-4a8a-8f1f-26389a9f3d45"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="290" y="72" width="120" height="16" uuid="90588671-1752-430f-be03-e974ccb14ff2"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Poli Pemeriksaan]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="290" y="34" width="120" height="16" uuid="c1f93541-edad-4f63-9a99-5c2f77a869b2"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Jenis Kelamin]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="290" y="52" width="120" height="16" uuid="8e77c019-4199-4391-ae8c-33a6027945df"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Tanggal Pemeriksaan]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="410" y="72" width="7" height="16" uuid="0e10b2a4-6cc3-45e8-b905-9779b905efb2"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="410" y="34" width="7" height="16" uuid="878b1f84-f7d4-4928-90bf-4072c92bff2f"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="410" y="52" width="7" height="16" uuid="a609fe16-988e-4e6d-a652-47395b919012"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="96" y="34" width="172" height="16" uuid="a5e2e2b9-1c3a-4c96-8710-f22fd46d1dbd"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[.........................................................................]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-11" y="134" width="569" height="16" uuid="9877b842-5386-49cc-9738-16fe9e055686"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[...........................................................................................................................................................................................................................]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="91" y="34" width="7" height="16" uuid="6613672e-e362-46a6-a4d8-cfe53954291a"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-9" y="34" width="100" height="16" uuid="3149b09a-dd4f-4e84-bf1b-64f70c22be0c"/>
+				<textElement>
+					<font size="11" isBold="true"/>
+				</textElement>
+				<text><![CDATA[No. Rekam Medis]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="96" y="52" width="172" height="16" uuid="91546a27-7a23-43f6-8ca4-a9529838af5f"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[.........................................................................]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="96" y="72" width="172" height="16" uuid="cd4fd147-b0f0-418e-81ee-605b67122b2e"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[.........................................................................]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="96" y="114" width="462" height="16" uuid="34bfdda3-8c40-4c54-96b1-f80fd08dff7f"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[..............................................................................................................................................................]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="96" y="93" width="172" height="16" uuid="d688e1be-4e49-4073-96b5-0f88c6d73085"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[.........................................................................]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="415" y="34" width="143" height="16" uuid="100d2edb-78c3-497d-9a86-7646ffd2f86a"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[.........................................................................]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="415" y="52" width="143" height="16" uuid="c12ade97-6114-4032-b11b-e1c630fc64ce"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[.........................................................................]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="415" y="72" width="143" height="16" uuid="efbd187e-c5d7-4803-b80b-4d1b9af7ebfe"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[.........................................................................]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-10" y="154" width="569" height="16" uuid="385f09e2-6644-4ef6-b9d9-41a0f5c73659"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[...........................................................................................................................................................................................................................]]></text>
+			</staticText>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="113" splitType="Stretch">
+			<staticText>
+				<reportElement x="418" y="5" width="100" height="30" uuid="7cd6beb2-5579-47c3-a370-8e4a6c87ed88"/>
+				<textElement textAlignment="Center">
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[Mengetahui,
+DPJP]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="70" y="12" width="100" height="30" uuid="385e1a7b-b92f-4861-84fc-4bdc8adbc7e2"/>
+				<textElement textAlignment="Center">
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[Perawat]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="49" y="92" width="143" height="16" uuid="d492e86e-058c-4a61-b551-a5dd48bfe68a"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[.........................................................................]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="380" y="92" width="176" height="16" uuid="c2461c7e-e326-4197-8ce4-2c2a81b685b7"/>
+				<textElement>
+					<font size="11" isBold="false"/>
+				</textElement>
+				<text><![CDATA[............................................................................]]></text>
+			</staticText>
+		</band>
+	</columnFooter>
+</jasperReport>
