@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Jaspersoft Studio version 6.18.1.final using JasperReports Library version 6.18.1-9d75d1969e774d4f179fb3be8401e98a0e6d1611  -->
 <jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="6304015-Tindakan_dan_pemeriksaan,penunjang_neurologi" pageWidth="595" pageHeight="439" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="82e38596-a012-473b-9f3e-251c8a80c5db">
-	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="KOSONG"/>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="SIMRSGOS2"/>
+	<property name="com.jaspersoft.studio.data.sql.tables" value=""/>
+	<parameter name="NOMOR_RM" class="java.lang.String"/>
 	<queryString>
-		<![CDATA[]]>
+		<![CDATA[CALL master.getTindakanPemeriksaanPenunjangNeurologi($P{NOMOR_RM})]]>
 	</queryString>
+	<field name="NAMAINSTANSI" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="NAMA"/>
+		<property name="com.jaspersoft.studio.field.label" value="NAMAINSTANSI"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="pk"/>
+	</field>
+	<field name="NORM" class="java.lang.Integer">
+		<property name="com.jaspersoft.studio.field.name" value="NORM"/>
+		<property name="com.jaspersoft.studio.field.label" value="NORM"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="pendaftaran"/>
+	</field>
+	<field name="GelarDanNama" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="GelarDanNama"/>
+		<property name="com.jaspersoft.studio.field.label" value="GelarDanNama"/>
+	</field>
+	<field name="TANGGAL" class="java.sql.Timestamp">
+		<property name="com.jaspersoft.studio.field.name" value="TANGGAL"/>
+		<property name="com.jaspersoft.studio.field.label" value="TANGGAL"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="pendaftaran"/>
+	</field>
+	<field name="jenisKelamin" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="jenisKelamin"/>
+		<property name="com.jaspersoft.studio.field.label" value="jenisKelamin"/>
+	</field>
+	<field name="umur" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="umur"/>
+		<property name="com.jaspersoft.studio.field.label" value="umur"/>
+	</field>
+	<field name="diagnosa" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="diagnosa"/>
+		<property name="com.jaspersoft.studio.field.label" value="diagnosa"/>
+	</field>
+	<field name="tindakan" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="tindakan"/>
+		<property name="com.jaspersoft.studio.field.label" value="tindakan"/>
+	</field>
 	<background>
 		<band splitType="Stretch"/>
 	</background>
@@ -179,6 +216,66 @@ NEUROLOGI]]></text>
 				</textElement>
 				<text><![CDATA[.........................................................................]]></text>
 			</staticText>
+			<textField>
+				<reportElement x="408" y="54" width="70" height="16" uuid="5b8ba2ac-d7df-4502-9168-5fe7c0c74506">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="bc9471ad-43f5-408e-bd14-1776f7b1ea23"/>
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+					<property name="com.jaspersoft.studio.unit.width" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{NORM}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="408" y="70" width="100" height="16" uuid="06747046-066b-4a5c-83da-87ede13eebaf">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="91b1a659-b8b7-498a-bf79-bf26a960a700"/>
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+					<property name="com.jaspersoft.studio.unit.y" value="px"/>
+					<property name="com.jaspersoft.studio.unit.x" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{jenisKelamin}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="408" y="86" width="100" height="16" uuid="efb110fc-3f02-4184-81ac-ebb53d6d51e4">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="e6a7d80f-8082-40ba-970e-149dbb44922c"/>
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+					<property name="com.jaspersoft.studio.unit.y" value="px"/>
+					<property name="com.jaspersoft.studio.unit.x" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{TANGGAL}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="121" y="54" width="100" height="16" uuid="b9788dca-888a-4181-ae91-2cefa6c9635d">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="e35b1f8a-02d3-493d-8cf6-389adb7af36e"/>
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{GelarDanNama}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="121" y="70" width="100" height="16" uuid="4e69a4af-d162-41ea-9aa8-b15a946b1b87">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="ac6ea6e9-34cf-42e5-8d63-9d9030c9692c"/>
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+					<property name="com.jaspersoft.studio.unit.x" value="px"/>
+					<property name="com.jaspersoft.studio.unit.y" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{umur}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="121" y="86" width="100" height="16" uuid="8a3fd4d9-6c8b-4f92-8ea4-90ab91bdeb7e">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="56f411e4-7554-4a1e-b988-08d655e4b40e"/>
+					<property name="com.jaspersoft.studio.unit.x" value="px"/>
+					<property name="com.jaspersoft.studio.unit.y" value="px"/>
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{diagnosa}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="121" y="102" width="100" height="16" uuid="cb1c57ff-f3e6-41f0-b6f5-c4119b40d793">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="8d035749-9f4b-4808-9eed-31f10946f5ff"/>
+					<property name="com.jaspersoft.studio.unit.y" value="px"/>
+					<property name="com.jaspersoft.studio.unit.x" value="px"/>
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{tindakan}]]></textFieldExpression>
+			</textField>
 		</band>
 	</detail>
 	<columnFooter>
