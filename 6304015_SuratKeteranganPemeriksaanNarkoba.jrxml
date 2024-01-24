@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.18.1.final using JasperReports Library version 6.18.1-9d75d1969e774d4f179fb3be8401e98a0e6d1611  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="6304015_SuratKeteranganPemeriksaanNarkoba" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="9434c4a7-62db-4123-9d32-71b211ebbca4">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="KOSONG"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<pageHeader>
+		<band height="72" splitType="Stretch">
+			<staticText>
+				<reportElement stretchType="RelativeToTallestObject" x="105" y="0" width="350" height="20" uuid="2d249b28-c0d0-48a0-8941-8d04beb02c31"/>
+				<textElement textAlignment="Center">
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[PEMERINTAH PROVINSI KALIMANTAN SELATAN]]></text>
+			</staticText>
+			<line>
+				<reportElement x="-10" y="71" width="580" height="1" uuid="9381b0db-9757-48b7-96be-58ab7d2f324b"/>
+				<graphicElement>
+					<pen lineWidth="2.0" lineStyle="Solid"/>
+				</graphicElement>
+			</line>
+			<image scaleImage="FillFrame">
+				<reportElement x="15" y="0" width="65" height="70" uuid="e68ff212-3c18-4ccd-8554-1117f3980312"/>
+				<imageExpression><![CDATA["C:/Users/cacan/OneDrive/Pictures/logo pemrov kalsel.jpg"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="487" y="0" width="63" height="71" uuid="b7f4af83-c5db-4fd7-be07-0beef48a370b"/>
+				<imageExpression><![CDATA["C:/Users/cacan/OneDrive/Pictures/logo-rsj.png"]]></imageExpression>
+			</image>
+			<staticText>
+				<reportElement x="91" y="30" width="379" height="40" uuid="67f3e03a-cb89-470e-8e3f-505fb2b89935"/>
+				<textElement textAlignment="Center">
+					<font fontName="&#xD;&#xA;Serif" size="9" isBold="false"/>
+				</textElement>
+				<text><![CDATA[Jln. Gubernur Syarkawi KM.3,9 Gambut - Kabupaten Banjar. PO BOX 250
+Telp (0511) 6730000-6730001-6730002, IGD (0511) 6730003 Fax. (0511) 6730006
+Website: www.sambanglihum.info, Email: rsjsambanglihum@kalselprov.go.id]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="100" y="11" width="376" height="30" uuid="22e1314a-bcf1-4e95-87fc-8d9a9406b9ae"/>
+				<textElement>
+					<font fontName="Serif" size="16" isBold="true"/>
+				</textElement>
+				<text><![CDATA[BLUD RUMAH SAKIT JIWA SAMBANG LIHUM]]></text>
+			</staticText>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="207" splitType="Stretch">
+			<staticText>
+				<reportElement x="110" y="10" width="340" height="18" uuid="54a8c601-b0b8-4f2c-9628-bd1d9ad4c605">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<box>
+					<bottomPen lineWidth="0.5"/>
+				</box>
+				<textElement textAlignment="Center">
+					<font fontName="Serif" size="14" isBold="true"/>
+				</textElement>
+				<text><![CDATA[SURAT KETERANGAN PEMERIKSAAN NARKOBA]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="111" y="29" width="340" height="18" uuid="c848d51a-aa9c-4447-b814-c166eafc86d6">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<box>
+					<bottomPen lineWidth="0.0"/>
+				</box>
+				<textElement textAlignment="Center">
+					<font fontName="Serif" size="14" isBold="true"/>
+				</textElement>
+				<text><![CDATA[NOMOR :                        Yanmed/RSJ]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="60" width="550" height="32" uuid="13b59f30-9a96-4cb6-947c-06d9b301a973">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement textAlignment="Justified">
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Yang bertanda tangan di bawah ini Dokter Pemerintah pada Rumah Sakit Jiwa Sambang Lihum Provinsi Kalimantan Selatan, atas dasar permintaan sendiri, telah dilakukan pemeriksaan terhadap :]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="2" y="100" width="138" height="100" uuid="be472745-4047-4c7e-b314-aa30c36438b1">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement textAlignment="Justified">
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Nama
+Tempat, Tgl. Lahir
+Jenis Kelamin
+Pendidikan
+Pekerjaan
+Alamat]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="167" y="100" width="10" height="100" uuid="94718f49-f13b-4779-ab0e-bec3e3319dea">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement textAlignment="Justified">
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:
+:
+:
+:
+:
+:]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="388" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="250" height="20" uuid="9672c3fa-856a-4634-8824-60b2b44fd63b"/>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[A.  Hasil Wawancara dan Pemeriksaan Fisik :]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="17" y="20" width="152" height="16" uuid="2f2d67e4-6082-49d5-a5cd-97886446d8ad">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[1. Kesadaran]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="17" y="36" width="152" height="16" uuid="118355e0-f72a-4446-8c21-06881dbc1865">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[2. Keadaan Umum]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="17" y="52" width="152" height="16" uuid="9d99cdb6-2601-43b6-9ef9-faf2eb9baa45">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[3. Tekanan Darah]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="17" y="68" width="152" height="16" uuid="2ebbff42-4216-4155-ba8a-f5130fd1981c">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[4. Nadi]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="17" y="84" width="152" height="16" uuid="0e7e0a42-ebe0-437f-9f9a-e7cb8d558a6f">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[5. Pernafasan]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="17" y="100" width="152" height="16" uuid="aa98a408-2bb9-47d8-bd53-843f738ff511">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[6. Suhu]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="170" y="20" width="7" height="16" uuid="7e442a62-cbfe-4a9c-be7f-0b514d2ec77d">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="170" y="36" width="7" height="16" uuid="150bc85c-24e6-4ad0-b6c7-f8afa975f319">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="170" y="52" width="7" height="16" uuid="d945e3b2-c233-4db6-8d53-f5cd0f72d612">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="170" y="68" width="7" height="16" uuid="9fcd3930-694a-4e96-8a02-700148ded325">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="170" y="84" width="7" height="16" uuid="6521af7e-78be-47ca-b233-04884214128d">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="170" y="100" width="7" height="16" uuid="cfb3c46f-7da4-4659-898c-94665eba7133">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="2" y="121" width="318" height="20" uuid="6af80a87-dba8-4a5a-8c9e-b149918513c7"/>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[B. Riwayat Penggunaan obat-obatan dalam satu minggu terakhir :]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="19" y="141" width="151" height="16" uuid="8302f496-7181-4a4b-b136-6b8f4c6d0857">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[1. Penggunaan obat-obatan]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="19" y="157" width="151" height="16" uuid="c574881f-4a06-4ed9-820f-87806541d65d">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[2. Jenis obat yang digunakan]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="19" y="173" width="151" height="16" uuid="3c1e1c68-aba0-44cb-8626-31c3ead3bd01">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[3. Asal obat]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="19" y="189" width="151" height="16" uuid="d7cd65b3-0dc2-47cb-89a2-d94453670553">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[4. Terakhir minum]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="172" y="141" width="7" height="16" uuid="d09a66c2-2c15-4d62-92e6-daa172848942">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="172" y="157" width="7" height="16" uuid="b6ac6ed7-379b-4253-ac84-632bb2b6852d">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="172" y="173" width="7" height="16" uuid="4c2a668c-90e2-40ed-9e6a-6709c213a5d3">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="172" y="189" width="7" height="16" uuid="de5dc1a7-f0cb-4cae-bb64-ae1d433d694e">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="2" y="210" width="318" height="20" uuid="5af6748d-676c-4550-966a-26fe365c486e"/>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[C. Hasil Tes Urin ]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="19" y="246" width="151" height="16" uuid="6c9cbaf6-0d6a-469b-96f9-41fc0b18bf95">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[a. Amphetamine]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="19" y="262" width="151" height="16" uuid="95c59ca4-1bcf-41ee-be98-26108d921815">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[b. Metamphetamine]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="19" y="278" width="151" height="16" uuid="7d08a878-4a1d-4d20-9b73-925eb86c0967">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[c. Morfine]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="19" y="294" width="151" height="16" uuid="1415fc2a-a5fd-42d3-864b-87fa53f994b4">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[d. THC]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="172" y="246" width="7" height="16" uuid="184595d5-1ee8-4e8a-a74a-24187e8c1228">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="172" y="262" width="7" height="16" uuid="dcc3bb22-9b7d-4409-8d92-a4675403e164">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="172" y="278" width="7" height="16" uuid="99c8df5a-6680-4943-b71d-34d42096c013">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="172" y="294" width="7" height="16" uuid="8e9a92e5-5dbe-4ff9-9a98-8828b6af36ca">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="19" y="310" width="151" height="16" uuid="816c5e21-c32a-4ea7-8fe8-ef1e8808fe80">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[e. Benzodiazepine]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="172" y="310" width="7" height="16" uuid="c71c5b5d-1d4a-4b28-b834-812e998d47a3">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="19" y="230" width="181" height="16" uuid="4ffa3cc7-11ee-46fe-a739-0d939dfdd889">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="false"/>
+				</textElement>
+				<text><![CDATA[Pemeriksaan urine dengan metode : ]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="201" y="230" width="139" height="16" uuid="92c3e6cb-d073-448d-83a1-1c0fd9a5edc7">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true" isItalic="true"/>
+				</textElement>
+				<text><![CDATA[Rapid Test]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="1" y="330" width="553" height="39" uuid="3686e717-2ef5-4caa-8fba-eed030eed07c"/>
+				<textElement textAlignment="Justified">
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Berdasarkan hasil pemeriksaan pada saat ini dapat disimpulkan bahwa yang bersangkutan tidak menunjukan adanya penggunaan Zat Narkotika, Psikotropika, Prekursor dan Zat adiktif lainnya.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="360" width="553" height="20" uuid="9c9896f0-291b-4fec-8045-6aa255da780a"/>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Demikian surat keterangan pemeriksaan narkoba ini dibuat guna keperluaan : wdw]]></text>
+			</staticText>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="130" splitType="Stretch">
+			<staticText>
+				<reportElement x="420" y="8" width="126" height="30" uuid="608def18-a00a-4510-aac6-7dcd48bdc617"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[Banjar, 28 Desember 2023
+Dokter Pemeriksa]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="360" y="80" width="190" height="20" uuid="76b70e39-f156-48b7-a128-8fd6e0cd8487"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[dr.nama dokter + garis bawah + bold]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="360" y="100" width="190" height="20" uuid="df84e2b6-a407-42f7-8398-b93497d9c53d"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[NIP + bold]]></text>
+			</staticText>
+		</band>
+	</columnFooter>
+</jasperReport>

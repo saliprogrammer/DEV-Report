@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.18.1.final using JasperReports Library version 6.18.1-9d75d1969e774d4f179fb3be8401e98a0e6d1611  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="6304015_SuratKeteranganKesehatanJiwa" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="a4432466-e797-44a4-a5b4-63b75d1d8cf2">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="KOSONG"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<columnHeader>
+		<band height="72" splitType="Stretch">
+			<staticText>
+				<reportElement stretchType="RelativeToTallestObject" x="105" y="0" width="350" height="20" uuid="c898df75-68b3-45a4-8bd5-99abc4ba89b9"/>
+				<textElement textAlignment="Center">
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[PEMERINTAH PROVINSI KALIMANTAN SELATAN]]></text>
+			</staticText>
+			<line>
+				<reportElement x="-10" y="71" width="580" height="1" uuid="7d3daac7-106c-4f79-9c7e-6a3749292f8f"/>
+				<graphicElement>
+					<pen lineWidth="2.0" lineStyle="Solid"/>
+				</graphicElement>
+			</line>
+			<image scaleImage="FillFrame">
+				<reportElement x="15" y="0" width="65" height="70" uuid="9816dea9-4581-4ba2-bf6c-16ecf7af2e3f"/>
+				<imageExpression><![CDATA["C:/Users/cacan/OneDrive/Pictures/logo pemrov kalsel.jpg"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="487" y="0" width="63" height="71" uuid="73549304-c245-499a-9dae-c155e2494a6d"/>
+				<imageExpression><![CDATA["C:/Users/cacan/OneDrive/Pictures/logo-rsj.png"]]></imageExpression>
+			</image>
+			<staticText>
+				<reportElement x="91" y="30" width="379" height="40" uuid="e6c80c18-26d0-40c3-bb1f-c8ac68118cf7"/>
+				<textElement textAlignment="Center">
+					<font fontName="&#xD;&#xA;Serif" size="9" isBold="false"/>
+				</textElement>
+				<text><![CDATA[Jln. Gubernur Syarkawi KM.3,9 Gambut - Kabupaten Banjar. PO BOX 250
+Telp (0511) 6730000-6730001-6730002, IGD (0511) 6730003 Fax. (0511) 6730006
+Website: www.sambanglihum.info, Email: rsjsambanglihum@kalselprov.go.id]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="100" y="11" width="376" height="30" uuid="b36215bc-39ec-45b8-a48a-5c08b51545e6"/>
+				<textElement>
+					<font fontName="Serif" size="16" isBold="true"/>
+				</textElement>
+				<text><![CDATA[BLUD RUMAH SAKIT JIWA SAMBANG LIHUM]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="401" splitType="Stretch">
+			<staticText>
+				<reportElement x="153" y="0" width="254" height="26" uuid="b7fd68ea-2c27-4562-92a2-ec5f7afa8b1f">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="0.5"/>
+					<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<bottomPen lineWidth="0.5" lineStyle="Solid" lineColor="#000000"/>
+					<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Bottom">
+					<font fontName="Serif" size="14" isBold="true"/>
+				</textElement>
+				<text><![CDATA[SURAT KETERANGAN KESEHATAN JIWA]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="163" y="30" width="276" height="20" uuid="e0fc37a1-2170-4ca2-b790-b6159cf59820"/>
+				<textElement>
+					<font fontName="Serif" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[NOMOR :                          /RSJ-SAMLIH/2024]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-1" y="60" width="550" height="40" uuid="cca7a77c-716a-4baf-8759-62f3214b039f"/>
+				<textElement textAlignment="Justified">
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Yang bertanda tangan di bawah ini Dokter Pemerintah pada Rumah Sakit Jiwa Sambang Lihum Provinsi Kalimantan Selatan :]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-3" y="110" width="167" height="70" uuid="8ecf8ba8-27ed-49c6-b1df-d383536fdf08"/>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Nama
+NIP
+SIP
+Jabatan]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="167" y="110" width="14" height="70" uuid="66a48676-2311-4290-ba60-7ee1d0b22a16"/>
+				<textElement>
+					<font size="12"/>
+				</textElement>
+				<text><![CDATA[:
+:
+:
+:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="185" width="550" height="45" uuid="c40ae3ac-0f20-4a92-9942-557bcac841de"/>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Telah melakukan pemeriksaan Psikiatri berupa Wawancara, Observasi dan Psikomentri pada tanggal dua puluh, bulan Januari, tahun dua ribu dua puluh empat, terhadap.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="220" width="167" height="100" uuid="06fd2f5f-aede-4506-9dcd-b06ebb3f9548"/>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Nama
+Tempat, Tgl. Lahir
+Jenis Kelamin
+Pendidikan
+Pekerjaan
+Alamat]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="170" y="220" width="14" height="100" uuid="1cf78db7-87bc-4ee5-b6f4-a0c309e31ac3"/>
+				<textElement>
+					<font size="12"/>
+				</textElement>
+				<text><![CDATA[:
+:
+:
+:
+:
+:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="320" width="330" height="16" uuid="4da33dd3-c10c-4eb8-9c72-b7d39c5b293e">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Berdasarkan hasil pemeriksaan kesehatan jiwa saat ini disimpulkan:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="2" y="350" width="228" height="16" uuid="c3da70c4-ca9e-41a3-b757-0acf445f5be9">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Surat Keterangan ini dibuat dengan keperluan :]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="380" width="560" height="16" uuid="95b09326-4289-4d8b-9cf5-8c78e1135668">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Demikian Surat Keterangan ini dibuat untuk dapat dipergunakan sebagaimana mestinya.]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="330" y="320" width="220" height="16" uuid="f385e028-4590-4c3e-ae8e-f6bcc01a097a">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Static Text]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="230" y="350" width="320" height="16" uuid="278bc47d-cc05-4bbb-ad33-004692b97ba0">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement>
+					<font size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Static Text]]></text>
+			</staticText>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="324" splitType="Stretch">
+			<staticText>
+				<reportElement x="416" y="10" width="144" height="16" uuid="24d9eb31-8c8b-4169-a308-c58a79ad2b5c">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement textAlignment="Center">
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Banjar, 20 Januari 2024]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="419" y="23" width="144" height="16" uuid="ae843656-e3a0-4ff6-bae1-4af3ade84385">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement textAlignment="Center">
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[Dokter Pemeriksa,]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="390" y="84" width="174" height="16" uuid="d3c38e30-5c57-43ba-a735-0fa52a3e267d">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement textAlignment="Center">
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[nama dokter + garis bawah + bold]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="420" y="100" width="144" height="16" uuid="dc300796-6314-4b96-8036-3c76a997647f">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement textAlignment="Center">
+					<font fontName="Serif" size="12"/>
+				</textElement>
+				<text><![CDATA[nip]]></text>
+			</staticText>
+		</band>
+	</columnFooter>
+</jasperReport>
