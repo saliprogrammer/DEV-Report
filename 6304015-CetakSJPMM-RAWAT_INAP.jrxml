@@ -2,10 +2,91 @@
 <!-- Created with Jaspersoft Studio version 6.18.1.final using JasperReports Library version 6.18.1-9d75d1969e774d4f179fb3be8401e98a0e6d1611  -->
 <jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="6304015-CetakSJPMM-RAWAT_INAP" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="412343c9-d154-44b0-83c2-36fdce6c70ed">
 	<property name="com.jaspersoft.studio.data.sql.tables" value=""/>
-	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="KOSONG"/>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="SIMRSGOS2"/>
+	<parameter name="PSEP" class="java.lang.String"/>
 	<queryString language="SQL">
-		<![CDATA[]]>
+		<![CDATA[CALL bpjs.CetakSJPMMRawatInap($P{PSEP})]]>
 	</queryString>
+	<field name="NAMAINSTANSI" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="NAMA"/>
+		<property name="com.jaspersoft.studio.field.label" value="NAMAINSTANSI"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="pk"/>
+	</field>
+	<field name="NOMORSEP" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="noSEP"/>
+		<property name="com.jaspersoft.studio.field.label" value="NOMORSEP"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="kunjungan"/>
+	</field>
+	<field name="TGLSEP" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="TGLSEP"/>
+		<property name="com.jaspersoft.studio.field.label" value="TGLSEP"/>
+	</field>
+	<field name="TGLRJK" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="TGLRJK"/>
+		<property name="com.jaspersoft.studio.field.label" value="TGLRJK"/>
+	</field>
+	<field name="noRujukan" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="noRujukan"/>
+		<property name="com.jaspersoft.studio.field.label" value="noRujukan"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="kunjungan"/>
+	</field>
+	<field name="AsalRujukan" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="NAMA"/>
+		<property name="com.jaspersoft.studio.field.label" value="AsalRujukan"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="ppk"/>
+	</field>
+	<field name="NOMORKARTU" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="noKartu"/>
+		<property name="com.jaspersoft.studio.field.label" value="NOMORKARTU"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="peserta"/>
+	</field>
+	<field name="NORM" class="java.lang.Integer">
+		<property name="com.jaspersoft.studio.field.name" value="norm"/>
+		<property name="com.jaspersoft.studio.field.label" value="NORM"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="peserta"/>
+	</field>
+	<field name="poliTujuan" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="nama"/>
+		<property name="com.jaspersoft.studio.field.label" value="poliTujuan"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="poli"/>
+	</field>
+	<field name="nmKelas" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="nmKelas"/>
+		<property name="com.jaspersoft.studio.field.label" value="nmKelas"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="peserta"/>
+	</field>
+	<field name="COLUMN_11" class="java.lang.Integer">
+		<property name="com.jaspersoft.studio.field.name" value="norm"/>
+		<property name="com.jaspersoft.studio.field.label" value="NORM"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="peserta"/>
+	</field>
+	<field name="NomorKartu" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="NOMOR"/>
+		<property name="com.jaspersoft.studio.field.label" value="NomorKartu"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="kartu_asuransi_pasien"/>
+	</field>
+	<field name="NamaPasien" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="NAMA"/>
+		<property name="com.jaspersoft.studio.field.label" value="NamaPasien"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="pasien"/>
+	</field>
+	<field name="JenisKelamin" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="JenisKelamin"/>
+		<property name="com.jaspersoft.studio.field.label" value="JenisKelamin"/>
+	</field>
+	<field name="TEMPAT_LAHIR" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="TEMPAT_LAHIR"/>
+		<property name="com.jaspersoft.studio.field.label" value="TEMPAT_LAHIR"/>
+	</field>
+	<field name="TglLahir" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="TglLahir"/>
+		<property name="com.jaspersoft.studio.field.label" value="TglLahir"/>
+	</field>
+	<field name="JenisPenjamin" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="DESKRIPSI"/>
+		<property name="com.jaspersoft.studio.field.label" value="JenisPenjamin"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="referensi"/>
+	</field>
 	<background>
 		<band splitType="Stretch"/>
 	</background>
@@ -26,10 +107,6 @@ RUMAH SAKIT JIWA SAMBANG LIHUM]]></text>
 					<pen lineWidth="2.0" lineStyle="Solid"/>
 				</graphicElement>
 			</line>
-			<image scaleImage="FillFrame">
-				<reportElement x="37" y="-15" width="54" height="55" uuid="186d8cf8-da52-4aa7-915e-3e4cf2cfacab"/>
-				<imageExpression><![CDATA["C:/Users/cacan/OneDrive/Pictures/logo pemrov kalsel.jpg"]]></imageExpression>
-			</image>
 			<staticText>
 				<reportElement x="91" y="24" width="379" height="20" uuid="911f597d-42b8-4b2f-8076-9cec1b198d35"/>
 				<textElement textAlignment="Center">
@@ -97,83 +174,83 @@ RUMAH SAKIT JIWA SAMBANG LIHUM]]></text>
 				<text><![CDATA[Catatan Khusus :]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="310" y="4" width="142" height="16" uuid="d6ec4f39-b550-4e09-9abd-060a16dafc1e"/>
+				<reportElement x="296" y="4" width="142" height="16" uuid="d6ec4f39-b550-4e09-9abd-060a16dafc1e"/>
 				<text><![CDATA[NO SEP]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="452" y="4" width="10" height="16" uuid="327d6614-1ea1-462b-8d36-fd703c812937"/>
+				<reportElement x="438" y="4" width="10" height="16" uuid="327d6614-1ea1-462b-8d36-fd703c812937"/>
 				<text><![CDATA[:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="310" y="18" width="142" height="13" uuid="bc1aff49-99f3-4235-95a9-8c84de0411a9"/>
+				<reportElement x="296" y="18" width="142" height="13" uuid="bc1aff49-99f3-4235-95a9-8c84de0411a9"/>
 				<text><![CDATA[Tgl Terbit SEP]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="452" y="18" width="10" height="13" uuid="626cb351-1766-4b5b-99c1-2eb91fa3d65d"/>
+				<reportElement x="438" y="18" width="10" height="13" uuid="626cb351-1766-4b5b-99c1-2eb91fa3d65d"/>
 				<text><![CDATA[:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="310" y="31" width="142" height="13" uuid="47e2183a-0d2e-4c12-9454-d6cba468336d"/>
+				<reportElement x="296" y="31" width="142" height="13" uuid="47e2183a-0d2e-4c12-9454-d6cba468336d"/>
 				<text><![CDATA[NO SJPMM]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="452" y="31" width="10" height="13" uuid="30cd5e6a-ea84-4dc6-bd53-e7594bd9dcb4"/>
+				<reportElement x="438" y="31" width="10" height="13" uuid="30cd5e6a-ea84-4dc6-bd53-e7594bd9dcb4"/>
 				<text><![CDATA[:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="310" y="44" width="142" height="13" uuid="0138103b-e86a-4626-ae5d-186baf0befe6"/>
+				<reportElement x="296" y="44" width="142" height="13" uuid="0138103b-e86a-4626-ae5d-186baf0befe6"/>
 				<text><![CDATA[Nama Pasien]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="452" y="44" width="10" height="13" uuid="790597cc-0de8-4930-97d7-70d2a31e5efa"/>
+				<reportElement x="438" y="44" width="10" height="13" uuid="790597cc-0de8-4930-97d7-70d2a31e5efa"/>
 				<text><![CDATA[:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="310" y="57" width="142" height="13" uuid="920fd16a-9f7e-4569-a034-80052af2b44a"/>
+				<reportElement x="296" y="57" width="142" height="13" uuid="920fd16a-9f7e-4569-a034-80052af2b44a"/>
 				<text><![CDATA[Jenis Kelamin]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="452" y="57" width="10" height="13" uuid="34e7ee7d-cc8b-46a5-9272-1b58bf8da275"/>
+				<reportElement x="438" y="57" width="10" height="13" uuid="34e7ee7d-cc8b-46a5-9272-1b58bf8da275"/>
 				<text><![CDATA[:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="310" y="71" width="142" height="13" uuid="102ca18b-d50a-464e-87b6-1f3ce3f514b0"/>
+				<reportElement x="296" y="71" width="142" height="13" uuid="102ca18b-d50a-464e-87b6-1f3ce3f514b0"/>
 				<text><![CDATA[Tempat/Tgl Lahir]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="452" y="71" width="10" height="13" uuid="b7d56829-d377-49ba-9ca6-fe34c3c7538e"/>
+				<reportElement x="438" y="71" width="10" height="13" uuid="b7d56829-d377-49ba-9ca6-fe34c3c7538e"/>
 				<text><![CDATA[:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="310" y="84" width="142" height="13" uuid="24b4b4d6-f155-4f9d-ae5f-1374f23535db"/>
+				<reportElement x="296" y="84" width="142" height="13" uuid="24b4b4d6-f155-4f9d-ae5f-1374f23535db"/>
 				<text><![CDATA[Status]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="452" y="84" width="10" height="13" uuid="69cdb182-fa4c-4c90-b0a5-92f6961d792e"/>
+				<reportElement x="438" y="84" width="10" height="13" uuid="69cdb182-fa4c-4c90-b0a5-92f6961d792e"/>
 				<text><![CDATA[:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="310" y="97" width="142" height="13" uuid="ccbe606e-247a-4125-8e4d-2981ca8b693d"/>
+				<reportElement x="296" y="97" width="142" height="13" uuid="ccbe606e-247a-4125-8e4d-2981ca8b693d"/>
 				<text><![CDATA[Diagnosa]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="452" y="97" width="10" height="13" uuid="cba2b4d9-c593-4ae3-9431-6499c634a970"/>
+				<reportElement x="438" y="97" width="10" height="13" uuid="cba2b4d9-c593-4ae3-9431-6499c634a970"/>
 				<text><![CDATA[:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="310" y="110" width="142" height="13" uuid="ad3642aa-f1b1-442a-8555-9ffff74dba87"/>
+				<reportElement x="296" y="110" width="142" height="13" uuid="ad3642aa-f1b1-442a-8555-9ffff74dba87"/>
 				<text><![CDATA[No MR]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="452" y="110" width="10" height="13" uuid="8f18cb67-c4ab-40a1-9221-2a3099b7f9b1"/>
+				<reportElement x="438" y="110" width="10" height="13" uuid="8f18cb67-c4ab-40a1-9221-2a3099b7f9b1"/>
 				<text><![CDATA[:]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="310" y="123" width="142" height="13" uuid="f9125387-1d4f-48d6-9192-5c566fd3d995"/>
+				<reportElement x="296" y="123" width="142" height="13" uuid="f9125387-1d4f-48d6-9192-5c566fd3d995"/>
 				<text><![CDATA[Kelas]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="452" y="123" width="10" height="13" uuid="aaaee3e7-f539-43d4-9bb1-2d7e552cbab9"/>
+				<reportElement x="438" y="123" width="10" height="13" uuid="aaaee3e7-f539-43d4-9bb1-2d7e552cbab9"/>
 				<text><![CDATA[:]]></text>
 			</staticText>
 			<staticText>
@@ -187,6 +264,93 @@ RUMAH SAKIT JIWA SAMBANG LIHUM]]></text>
 			<staticText>
 				<reportElement x="380" y="150" width="140" height="18" uuid="1a88ee57-7007-4287-95fe-f3a1221b1333"/>
 				<text><![CDATA[Paraf Pemberi Layanan]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="448" y="4" width="100" height="13" uuid="acca6a9d-530e-4b19-95de-9b770f6db32c">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{NOMORSEP}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="449" y="44" width="100" height="13" uuid="25429969-faba-4457-a66f-894c09a85471">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{NamaPasien}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="160" y="39" width="100" height="13" uuid="a07c9874-2148-4418-85fe-afb4ec879328">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{NomorKartu}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="160" y="78" width="100" height="13" uuid="a1756351-4025-4f00-b028-948d792c8390">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{AsalRujukan}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="160" y="65" width="100" height="13" uuid="cba8b1e1-37e3-4fdf-9f73-691233449c75">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{TGLRJK}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="160" y="52" width="100" height="13" uuid="ccfac203-2898-479b-958e-eaf269468cb5">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{noRujukan}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="449" y="123" width="100" height="13" uuid="6ef9dedd-85a1-4185-a8e2-ec7422e66c01">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{nmKelas}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="449" y="71" width="100" height="13" uuid="98cf54bc-8604-4438-b1e0-ecbf0f5f258c">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{TEMPAT_LAHIR}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="449" y="57" width="100" height="13" uuid="7bb26de5-5da0-4595-ac36-0ce7ff4c2e22">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{JenisKelamin}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="449" y="20" width="100" height="13" uuid="8a47fd8b-bebd-4f40-81fd-b6c5a7f1b7cb">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{TGLSEP}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="146" y="106" width="128" height="32" uuid="3f3038be-4c70-4ac7-b88b-f6f751b28d1c">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textElement textAlignment="Center" verticalAlignment="Middle" markup="styled">
+					<font size="12" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{JenisPenjamin}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="160" y="25" width="100" height="13" uuid="bc3ca5ee-cc1b-47b5-817c-6f9db10ecc4e">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{TGLRJK}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="449" y="110" width="100" height="13" uuid="66f2cf8f-78f8-4884-bd47-20d1bd80d4a5">
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<textFieldExpression><![CDATA[$F{NORM}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="295" y="0" width="100" height="30" uuid="51cf45ee-ce0f-4995-98e4-2ddf93d25370">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="91de6ebc-94a6-46b8-b71e-8faecf19bcf4"/>
+				</reportElement>
+				<text><![CDATA[TGLRJK]]></text>
 			</staticText>
 		</band>
 	</columnHeader>
@@ -2568,6 +2732,15 @@ RUMAH SAKIT JIWA SAMBANG LIHUM]]></text>
 				</textElement>
 				<text><![CDATA[30]]></text>
 			</staticText>
+			<textField>
+				<reportElement x="240" y="0" width="64" height="16" uuid="2689c269-e3b3-43d4-a680-d0bc9f491188">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="91de6ebc-94a6-46b8-b71e-8faecf19bcf4"/>
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+					<property name="com.jaspersoft.studio.unit.width" value="px"/>
+				</reportElement>
+				<textElement textAlignment="Center" verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{TGLRJK}]]></textFieldExpression>
+			</textField>
 		</band>
 	</detail>
 	<columnFooter>
