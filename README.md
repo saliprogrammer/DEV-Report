@@ -1,4 +1,4 @@
-Report yang dibuat oleh Jasper Report
+Report yang dibuat menggunakan Jasper Report
 
 Jobdesk :
 
