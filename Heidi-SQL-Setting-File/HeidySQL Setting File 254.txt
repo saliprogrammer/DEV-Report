@@ -1,0 +1,556 @@
+ColWidths_connform.ListSessions<|||>1<|||>163,118,50,50,109,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+MainWinWidth<|||>3<|||>993
+MainWinHeight<|||>3<|||>525
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,298
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>SIMGOS Production
+LastActiveSession<|||>1<|||>SIMGOS Production
+ColWidths_frmTableEditor.listColumns<|||>1<|||>47,100,154,90,60,101,50,146,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>314,100,80,120
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>200,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,420
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+MainWinMaximized<|||>3<|||>1
+CreateDbCollation<|||>1<|||>latin1_swedish_ci
+FileDialogEncoding_MainForm<|||>3<|||>0
+ExportSQL_Filenames<|||>1<|||>E:\DOWNLOAD\Aplikasi Pajak v1.0.9.5\login database.sql<{{{><}}}>E:\DOWNLOAD\Aplikasi Pajak v1.0.9.5\bpkad database.sql<{{{><}}}>C:\Users\cacan\OneDrive\Desktop\database bpkad double.sql<{{{><}}}>BPKAD DATABASE<{{{><}}}>
+SessionManager_WindowLeft<|||>3<|||>65
+SessionManager_WindowTop<|||>3<|||>58
+SessionManager_ListWidth<|||>3<|||>402
+SessionManager_WindowWidth<|||>3<|||>1070
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+MainWinTop<|||>3<|||>80
+UpdatecheckLastrun<|||>1<|||>2024-02-16 21:32:33
+LastUsageStatisticCall<|||>1<|||>2024-02-16 21:32:36
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_DataHow<|||>3<|||>4
+ColWidths_frmRoutineEditor.listParameters<|||>1<|||>50,394,90,70
+ColsVisible_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColPositions_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColSort_frmRoutineEditor.listParameters<|||>1<|||>-1,0
+MemoEditorWidth<|||>3<|||>593
+MemoEditorMaximized<|||>3<|||>0
+GroupTreeObjects<|||>3<|||>1
+dbtreewidth<|||>3<|||>331
+DateTimeEditor_CursorPos_Type4<|||>3<|||>10
+SessionManager_WindowHeight<|||>3<|||>600
+PromptSaveFileOnTabClose<|||>3<|||>0
+MemoEditorHeight<|||>3<|||>265
+querymemoheight<|||>3<|||>100
+SQLFile0<|||>1<|||>E:\DOWNLOAD\DOWNLOAD BARU\Compressed\HeidiSQL_12.2_64_Portable\Backups\query-tab-2024-01-29_05-20-45-090.sql
+Servers\Localhost\SessionCreated<|||>1<|||>2022-12-08 09:10:09
+Servers\Localhost\Host<|||>1<|||>127.0.0.1
+Servers\Localhost\WindowsAuth<|||>3<|||>0
+Servers\Localhost\CleartextPluginEnabled<|||>3<|||>0
+Servers\Localhost\User<|||>1<|||>root
+Servers\Localhost\Password<|||>1<|||>5
+Servers\Localhost\LoginPrompt<|||>3<|||>0
+Servers\Localhost\Port<|||>1<|||>3306
+Servers\Localhost\NetType<|||>3<|||>0
+Servers\Localhost\Compressed<|||>3<|||>0
+Servers\Localhost\LocalTimeZone<|||>3<|||>0
+Servers\Localhost\QueryTimeout<|||>3<|||>30
+Servers\Localhost\KeepAlive<|||>3<|||>20
+Servers\Localhost\FullTableStatus<|||>3<|||>1
+Servers\Localhost\Databases<|||>1<|||>
+Servers\Localhost\Library<|||>1<|||>libmariadb.dll
+Servers\Localhost\Comment<|||>1<|||>
+Servers\Localhost\StartupScriptFilename<|||>1<|||>
+Servers\Localhost\TreeBackground<|||>3<|||>536870911
+Servers\Localhost\SshExecutable<|||>1<|||>
+Servers\Localhost\SSHtunnelHost<|||>1<|||>
+Servers\Localhost\SSHtunnelHostPort<|||>3<|||>22
+Servers\Localhost\SSHtunnelUser<|||>1<|||>
+Servers\Localhost\SSHtunnelPassword<|||>1<|||>4
+Servers\Localhost\SSHtunnelTimeout<|||>3<|||>4
+Servers\Localhost\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Localhost\SSHtunnelPort<|||>3<|||>3307
+Servers\Localhost\SSL_Active<|||>3<|||>0
+Servers\Localhost\SSL_Key<|||>1<|||>
+Servers\Localhost\SSL_Cert<|||>1<|||>
+Servers\Localhost\SSL_CA<|||>1<|||>
+Servers\Localhost\SSL_Cipher<|||>1<|||>
+Servers\Localhost\IgnoreDatabasePattern<|||>1<|||>
+Servers\Localhost\LogFileDdl<|||>3<|||>0
+Servers\Localhost\LogFileDml<|||>3<|||>0
+Servers\Localhost\LogFilePath<|||>1<|||>C:\Users\cacan\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Localhost\ServerVersionFull<|||>1<|||>10.4.27-MariaDB - mariadb.org binary distribution
+Servers\Localhost\ConnectCount<|||>3<|||>93
+Servers\Localhost\ServerVersion<|||>3<|||>100427
+Servers\Localhost\LastConnect<|||>1<|||>2024-02-13 17:30:31
+Servers\Localhost\lastUsedDB<|||>1<|||>apotek
+Servers\Localhost\RefusedCount<|||>3<|||>7
+Servers\Localhost\apotek|barang\Filter<|||>1<|||>`id` LIKE '%1000000000002%' OR `bagian` LIKE '%1000000000002%' OR `kode_barang` LIKE '%1000000000002%'<{{{><}}}> OR `nama_barang` LIKE '%1000000000002%' OR `kemasan` LIKE '%1000000000002%' OR `produksi` LIKE '%1000000000002%'<{{{><}}}> OR CAST(`expired_date` AS CHAR) LIKE '%1000000000002%' OR `harga_jual` LIKE '%1000000000002%'<{{{><}}}> OR `harga_dasar` LIKE '%1000000000002%' OR `stok` LIKE '%1000000000002%'<{{{><}}}> OR CAST(`created_at` AS CHAR) LIKE '%1000000000002%' OR CAST(`updated_at` AS CHAR) LIKE '%1000000000002%'
+Servers\Localhost\apotek|barang\RecentFilters\1<|||>1<|||>`id` LIKE '%1000000000002%' OR `bagian` LIKE '%1000000000002%' OR `kode_barang` LIKE '%1000000000002%'<{{{><}}}> OR `nama_barang` LIKE '%1000000000002%' OR `kemasan` LIKE '%1000000000002%' OR `produksi` LIKE '%1000000000002%'<{{{><}}}> OR CAST(`expired_date` AS CHAR) LIKE '%1000000000002%' OR `harga_jual` LIKE '%1000000000002%'<{{{><}}}> OR `harga_dasar` LIKE '%1000000000002%' OR `stok` LIKE '%1000000000002%'<{{{><}}}> OR CAST(`created_at` AS CHAR) LIKE '%1000000000002%' OR CAST(`updated_at` AS CHAR) LIKE '%1000000000002%'
+Servers\Localhost\bpkad|login\Sort<|||>1<|||>0_pass|
+Servers\Localhost\QueryHistory\83<|||>1<|||>2024-02-05 08:47:42|apotek|0|SELECT jenis FROM neraca 
+Servers\Localhost\QueryHistory\1<|||>1<|||>2024-02-05 08:47:48|apotek|0|SELECT kode, jenis FROM neraca 
+Servers\Localhost\QueryHistory\2<|||>1<|||>2024-02-05 09:48:26|apotek|0|SELECT kode, jenis FROM neraca
+Servers\Localhost\QueryHistory\3<|||>1<|||>2024-02-08 12:25:50|apotek|0|SELECT * FROM neraca ORDER BY CAST(kode AS INT) ASC
+Servers\Localhost\QueryHistory\4<|||>1<|||>2024-02-08 12:44:14|apotek|0|SELECT * FROM neraca
+Servers\Localhost\QueryHistory\5<|||>1<|||>2024-02-08 13:04:33|apotek|0|SELECT * FROM parent p LEFT JOIN child c ON p.id=.c.id_parent ORDER BY p.id ASC
+Servers\Localhost\QueryHistory\6<|||>1<|||>2024-02-09 14:10:31|apotek|0|SELECT * FROM parent
+Servers\Localhost\QueryHistory\7<|||>1<|||>2024-02-09 14:22:12|apotek|0|SELECT * FROM parent p  LEFT JOIN child c ON p.id=c.id_parent
+Servers\Localhost\QueryHistory\8<|||>1<|||>2024-02-09 16:41:58|apotek|0|CALL `ShowBarang`()
+Servers\Localhost\QueryHistory\9<|||>1<|||>2024-02-13 17:31:18|apotek|0|SELECT t.*, b.harga_jual FROM tampung AS t INNER JOIN barang AS b ON t.kode_barang=b.kode_barang WHERE t.id_user = 10 AND b.bagian = 2
+Servers\Localhost\QueryHistory\10<|||>1<|||>2024-02-13 17:32:04|apotek|0|SELECT t.*, b.harga_jual FROM tampung AS t INNER JOIN barang AS b ON t.kode_barang=b.kode_barang WHERE t.id_user = 10 AND b.bagian = 1
+Servers\OnlineDB\SessionCreated<|||>1<|||>2024-01-08 17:31:24
+Servers\OnlineDB\Host<|||>1<|||>127.0.0.1
+Servers\OnlineDB\WindowsAuth<|||>3<|||>0
+Servers\OnlineDB\CleartextPluginEnabled<|||>3<|||>0
+Servers\OnlineDB\User<|||>1<|||>root
+Servers\OnlineDB\Password<|||>1<|||>7
+Servers\OnlineDB\LoginPrompt<|||>3<|||>0
+Servers\OnlineDB\Port<|||>1<|||>3306
+Servers\OnlineDB\NetType<|||>3<|||>0
+Servers\OnlineDB\Compressed<|||>3<|||>0
+Servers\OnlineDB\LocalTimeZone<|||>3<|||>0
+Servers\OnlineDB\QueryTimeout<|||>3<|||>30
+Servers\OnlineDB\KeepAlive<|||>3<|||>20
+Servers\OnlineDB\FullTableStatus<|||>3<|||>1
+Servers\OnlineDB\Databases<|||>1<|||>
+Servers\OnlineDB\Library<|||>1<|||>libmariadb.dll
+Servers\OnlineDB\Comment<|||>1<|||>
+Servers\OnlineDB\StartupScriptFilename<|||>1<|||>
+Servers\OnlineDB\TreeBackground<|||>3<|||>536870911
+Servers\OnlineDB\SshExecutable<|||>1<|||>
+Servers\OnlineDB\SSHtunnelHost<|||>1<|||>
+Servers\OnlineDB\SSHtunnelHostPort<|||>3<|||>22
+Servers\OnlineDB\SSHtunnelUser<|||>1<|||>
+Servers\OnlineDB\SSHtunnelPassword<|||>1<|||>5
+Servers\OnlineDB\SSHtunnelTimeout<|||>3<|||>4
+Servers\OnlineDB\SSHtunnelPrivateKey<|||>1<|||>
+Servers\OnlineDB\SSHtunnelPort<|||>3<|||>3307
+Servers\OnlineDB\SSL_Active<|||>3<|||>0
+Servers\OnlineDB\SSL_Key<|||>1<|||>
+Servers\OnlineDB\SSL_Cert<|||>1<|||>
+Servers\OnlineDB\SSL_CA<|||>1<|||>
+Servers\OnlineDB\SSL_Cipher<|||>1<|||>
+Servers\OnlineDB\IgnoreDatabasePattern<|||>1<|||>
+Servers\OnlineDB\LogFileDdl<|||>3<|||>0
+Servers\OnlineDB\LogFileDml<|||>3<|||>0
+Servers\OnlineDB\LogFilePath<|||>1<|||>C:\Users\cacan\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\OnlineDB\RefusedCount<|||>3<|||>4
+Servers\OnlineDB\ServerVersionFull<|||>1<|||>10.4.27-MariaDB - mariadb.org binary distribution
+Servers\OnlineDB\ConnectCount<|||>3<|||>1
+Servers\OnlineDB\ServerVersion<|||>3<|||>100427
+Servers\OnlineDB\LastConnect<|||>1<|||>2024-01-09 20:22:54
+Servers\Server Production\SessionCreated<|||>1<|||>2024-01-03 14:16:52
+Servers\Server Production\Host<|||>1<|||>192.168.3.254
+Servers\Server Production\WindowsAuth<|||>3<|||>0
+Servers\Server Production\CleartextPluginEnabled<|||>3<|||>0
+Servers\Server Production\User<|||>1<|||>admin
+Servers\Server Production\Password<|||>1<|||>786E7277786C7478375
+Servers\Server Production\LoginPrompt<|||>3<|||>0
+Servers\Server Production\Port<|||>1<|||>3306
+Servers\Server Production\NetType<|||>3<|||>0
+Servers\Server Production\Compressed<|||>3<|||>0
+Servers\Server Production\LocalTimeZone<|||>3<|||>0
+Servers\Server Production\QueryTimeout<|||>3<|||>30
+Servers\Server Production\KeepAlive<|||>3<|||>20
+Servers\Server Production\FullTableStatus<|||>3<|||>1
+Servers\Server Production\Databases<|||>1<|||>
+Servers\Server Production\Library<|||>1<|||>libmariadb.dll
+Servers\Server Production\Comment<|||>1<|||>
+Servers\Server Production\StartupScriptFilename<|||>1<|||>
+Servers\Server Production\TreeBackground<|||>3<|||>536870911
+Servers\Server Production\SshExecutable<|||>1<|||>
+Servers\Server Production\SSHtunnelHost<|||>1<|||>
+Servers\Server Production\SSHtunnelHostPort<|||>3<|||>22
+Servers\Server Production\SSHtunnelUser<|||>1<|||>
+Servers\Server Production\SSHtunnelPassword<|||>1<|||>7
+Servers\Server Production\SSHtunnelTimeout<|||>3<|||>4
+Servers\Server Production\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Server Production\SSHtunnelPort<|||>3<|||>3307
+Servers\Server Production\SSL_Active<|||>3<|||>0
+Servers\Server Production\SSL_Key<|||>1<|||>
+Servers\Server Production\SSL_Cert<|||>1<|||>
+Servers\Server Production\SSL_CA<|||>1<|||>
+Servers\Server Production\SSL_Cipher<|||>1<|||>
+Servers\Server Production\IgnoreDatabasePattern<|||>1<|||>
+Servers\Server Production\LogFileDdl<|||>3<|||>0
+Servers\Server Production\LogFileDml<|||>3<|||>0
+Servers\Server Production\LogFilePath<|||>1<|||>C:\Users\cacan\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Server Production\RefusedCount<|||>3<|||>47
+Servers\Sidokar\SessionCreated<|||>1<|||>2023-08-14 12:53:54
+Servers\Sidokar\Host<|||>1<|||>127.0.0.1
+Servers\Sidokar\WindowsAuth<|||>3<|||>0
+Servers\Sidokar\CleartextPluginEnabled<|||>3<|||>0
+Servers\Sidokar\User<|||>1<|||>root
+Servers\Sidokar\Password<|||>1<|||>6
+Servers\Sidokar\LoginPrompt<|||>3<|||>0
+Servers\Sidokar\Port<|||>1<|||>3306
+Servers\Sidokar\NetType<|||>3<|||>0
+Servers\Sidokar\Compressed<|||>3<|||>0
+Servers\Sidokar\LocalTimeZone<|||>3<|||>0
+Servers\Sidokar\QueryTimeout<|||>3<|||>30
+Servers\Sidokar\KeepAlive<|||>3<|||>20
+Servers\Sidokar\FullTableStatus<|||>3<|||>1
+Servers\Sidokar\Databases<|||>1<|||>
+Servers\Sidokar\Library<|||>1<|||>libmariadb.dll
+Servers\Sidokar\Comment<|||>1<|||>
+Servers\Sidokar\StartupScriptFilename<|||>1<|||>
+Servers\Sidokar\TreeBackground<|||>3<|||>536870911
+Servers\Sidokar\SSHtunnelHost<|||>1<|||>
+Servers\Sidokar\SSHtunnelHostPort<|||>3<|||>22
+Servers\Sidokar\SSHtunnelUser<|||>1<|||>
+Servers\Sidokar\SSHtunnelPassword<|||>1<|||>8
+Servers\Sidokar\SSHtunnelTimeout<|||>3<|||>4
+Servers\Sidokar\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Sidokar\SSHtunnelPort<|||>3<|||>3307
+Servers\Sidokar\SSL_Active<|||>3<|||>0
+Servers\Sidokar\SSL_Key<|||>1<|||>
+Servers\Sidokar\SSL_Cert<|||>1<|||>
+Servers\Sidokar\SSL_CA<|||>1<|||>
+Servers\Sidokar\SSL_Cipher<|||>1<|||>
+Servers\Sidokar\IgnoreDatabasePattern<|||>1<|||>
+Servers\Sidokar\LogFileDdl<|||>3<|||>0
+Servers\Sidokar\LogFileDml<|||>3<|||>0
+Servers\Sidokar\LogFilePath<|||>1<|||>C:\Users\IT & SIMRS\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Sidokar\RefusedCount<|||>3<|||>13
+Servers\Sidokar\ServerVersionFull<|||>1<|||>8.0.19 - MySQL Community Server - GPL
+Servers\Sidokar\ConnectCount<|||>3<|||>6
+Servers\Sidokar\ServerVersion<|||>3<|||>80019
+Servers\Sidokar\LastConnect<|||>1<|||>2023-12-14 12:03:43
+Servers\Sidokar\lastUsedDB<|||>1<|||>
+Servers\SIMGODEV\SessionCreated<|||>1<|||>2024-01-10 20:53:11
+Servers\SIMGODEV\Host<|||>1<|||>192.168.22.100
+Servers\SIMGODEV\WindowsAuth<|||>3<|||>0
+Servers\SIMGODEV\CleartextPluginEnabled<|||>3<|||>0
+Servers\SIMGODEV\User<|||>1<|||>admin
+Servers\SIMGODEV\Password<|||>1<|||>5C2A5650787C3B49746E76746E7C37707837726D9
+Servers\SIMGODEV\LoginPrompt<|||>3<|||>0
+Servers\SIMGODEV\Port<|||>1<|||>3306
+Servers\SIMGODEV\NetType<|||>3<|||>0
+Servers\SIMGODEV\Compressed<|||>3<|||>0
+Servers\SIMGODEV\LocalTimeZone<|||>3<|||>0
+Servers\SIMGODEV\QueryTimeout<|||>3<|||>30
+Servers\SIMGODEV\KeepAlive<|||>3<|||>20
+Servers\SIMGODEV\FullTableStatus<|||>3<|||>1
+Servers\SIMGODEV\Databases<|||>1<|||>
+Servers\SIMGODEV\Library<|||>1<|||>libmariadb.dll
+Servers\SIMGODEV\Comment<|||>1<|||>
+Servers\SIMGODEV\StartupScriptFilename<|||>1<|||>
+Servers\SIMGODEV\TreeBackground<|||>3<|||>536870911
+Servers\SIMGODEV\SshExecutable<|||>1<|||>
+Servers\SIMGODEV\SSHtunnelHost<|||>1<|||>
+Servers\SIMGODEV\SSHtunnelHostPort<|||>3<|||>22
+Servers\SIMGODEV\SSHtunnelUser<|||>1<|||>
+Servers\SIMGODEV\SSHtunnelPassword<|||>1<|||>2
+Servers\SIMGODEV\SSHtunnelTimeout<|||>3<|||>4
+Servers\SIMGODEV\SSHtunnelPrivateKey<|||>1<|||>
+Servers\SIMGODEV\SSHtunnelPort<|||>3<|||>3307
+Servers\SIMGODEV\SSL_Active<|||>3<|||>0
+Servers\SIMGODEV\SSL_Key<|||>1<|||>
+Servers\SIMGODEV\SSL_Cert<|||>1<|||>
+Servers\SIMGODEV\SSL_CA<|||>1<|||>
+Servers\SIMGODEV\SSL_Cipher<|||>1<|||>
+Servers\SIMGODEV\IgnoreDatabasePattern<|||>1<|||>
+Servers\SIMGODEV\LogFileDdl<|||>3<|||>0
+Servers\SIMGODEV\LogFileDml<|||>3<|||>0
+Servers\SIMGODEV\LogFilePath<|||>1<|||>C:\Users\cacan\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\SIMGODEV\RefusedCount<|||>3<|||>4
+Servers\SIMGODEV\ServerVersionFull<|||>1<|||>8.0.35 - MySQL Community Server - GPL
+Servers\SIMGODEV\ConnectCount<|||>3<|||>10
+Servers\SIMGODEV\ServerVersion<|||>3<|||>80035
+Servers\SIMGODEV\LastConnect<|||>1<|||>2024-02-16 21:34:15
+Servers\SIMGODEV\lastUsedDB<|||>1<|||>aplikasi
+Servers\SIMGODEV\master|referensi\Filter<|||>1<|||>JENIS = 4
+Servers\SIMGODEV\master|referensi\RecentFilters\1<|||>1<|||>JENIS = 4
+Servers\SIMGODEV\QueryHistory\1<|||>1<|||>2024-01-10 20:56:21|penjualan|157|CALL `CetakEtiket`('12121')
+Servers\SIMGODEV\QueryHistory\2<|||>1<|||>2024-01-10 20:56:31|penjualan|16|CALL `CetakEtiket`('wadawdaw')
+Servers\SIMGODEV\QueryHistory\3<|||>1<|||>2024-01-18 17:54:32|master|32|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul AS pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LIMIT 1
+Servers\SIMGODEV\QueryHistory\4<|||>1<|||>2024-01-18 17:58:16|master|0|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul AS pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LIMIT 1
+Servers\SIMGODEV\QueryHistory\6<|||>1<|||>2024-01-29 05:21:39|master|0|CALL `CetakData`('2')
+Servers\SIMGODEV\QueryHistory\5<|||>1<|||>2024-01-29 05:21:43|master|0|CALL `CetakData`('100')
+Servers\SIMGODEV\QueryHistory\7<|||>1<|||>2024-01-29 05:22:15|master|0|CALL `CetakData`('1234')
+Servers\SIMGOS Production\SessionCreated<|||>1<|||>2024-01-11 09:59:24
+Servers\SIMGOS Production\Host<|||>1<|||>192.168.3.254
+Servers\SIMGOS Production\WindowsAuth<|||>3<|||>0
+Servers\SIMGOS Production\CleartextPluginEnabled<|||>3<|||>0
+Servers\SIMGOS Production\User<|||>1<|||>admin
+Servers\SIMGOS Production\Password<|||>1<|||>58265257584C7478375
+Servers\SIMGOS Production\LoginPrompt<|||>3<|||>0
+Servers\SIMGOS Production\Port<|||>1<|||>3306
+Servers\SIMGOS Production\NetType<|||>3<|||>0
+Servers\SIMGOS Production\Compressed<|||>3<|||>0
+Servers\SIMGOS Production\LocalTimeZone<|||>3<|||>0
+Servers\SIMGOS Production\QueryTimeout<|||>3<|||>30
+Servers\SIMGOS Production\KeepAlive<|||>3<|||>20
+Servers\SIMGOS Production\FullTableStatus<|||>3<|||>1
+Servers\SIMGOS Production\Databases<|||>1<|||>
+Servers\SIMGOS Production\Library<|||>1<|||>libmariadb.dll
+Servers\SIMGOS Production\Comment<|||>1<|||>
+Servers\SIMGOS Production\StartupScriptFilename<|||>1<|||>
+Servers\SIMGOS Production\TreeBackground<|||>3<|||>536870911
+Servers\SIMGOS Production\SshExecutable<|||>1<|||>
+Servers\SIMGOS Production\SSHtunnelHost<|||>1<|||>
+Servers\SIMGOS Production\SSHtunnelHostPort<|||>3<|||>22
+Servers\SIMGOS Production\SSHtunnelUser<|||>1<|||>
+Servers\SIMGOS Production\SSHtunnelPassword<|||>1<|||>8
+Servers\SIMGOS Production\SSHtunnelTimeout<|||>3<|||>4
+Servers\SIMGOS Production\SSHtunnelPrivateKey<|||>1<|||>
+Servers\SIMGOS Production\SSHtunnelPort<|||>3<|||>3307
+Servers\SIMGOS Production\SSL_Active<|||>3<|||>0
+Servers\SIMGOS Production\SSL_Key<|||>1<|||>
+Servers\SIMGOS Production\SSL_Cert<|||>1<|||>
+Servers\SIMGOS Production\SSL_CA<|||>1<|||>
+Servers\SIMGOS Production\SSL_Cipher<|||>1<|||>
+Servers\SIMGOS Production\IgnoreDatabasePattern<|||>1<|||>
+Servers\SIMGOS Production\LogFileDdl<|||>3<|||>0
+Servers\SIMGOS Production\LogFileDml<|||>3<|||>0
+Servers\SIMGOS Production\LogFilePath<|||>1<|||>C:\Users\cacan\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\SIMGOS Production\RefusedCount<|||>3<|||>3
+Servers\SIMGOS Production\ServerVersionFull<|||>1<|||>8.0.11 - MySQL Community Server - GPL
+Servers\SIMGOS Production\ConnectCount<|||>3<|||>9
+Servers\SIMGOS Production\ServerVersion<|||>3<|||>80011
+Servers\SIMGOS Production\LastConnect<|||>1<|||>2024-02-19 08:54:02
+Servers\SIMGOS Production\lastUsedDB<|||>1<|||>master
+Servers\SIMGOS Production\master|pasien\Filter<|||>1<|||>NORM = '43102'
+Servers\SIMGOS Production\master|pasien\RecentFilters\1<|||>1<|||>NORM = '43102'
+Servers\SIMGOS Production\master|pegawai\Filter<|||>1<|||>NIP = '197804262000032001'
+Servers\SIMGOS Production\master|pegawai\RecentFilters\1<|||>1<|||>NIP = '197804262000032001'
+Servers\SIMGOS Production\QueryHistory\1<|||>1<|||>2024-01-18 09:09:13|master|329|SELECT p.NAMA FROM pegawai AS p LEFT JOIN referensi AS r ON p.PROFESI=r.JENIS
+Servers\SIMGOS Production\QueryHistory\2<|||>1<|||>2024-01-18 09:09:27|master|2047|SELECT p.NAMA FROM pegawai AS p INNER JOIN referensi AS r ON p.PROFESI=r.JENIS
+Servers\SIMGOS Production\QueryHistory\3<|||>1<|||>2024-01-18 09:19:39|master|0|SELECT p.NAMA FROM pegawai AS p INNER JOIN referensi AS r ON p.PROFESI=r.JENIS WHERE p.ID='31'
+Servers\SIMGOS Production\QueryHistory\4<|||>1<|||>2024-01-18 09:20:10|master|16|SELECT p.NAMA, r.DESKRIPSI FROM pegawai AS p INNER JOIN referensi AS r ON p.PROFESI=r.JENIS WHERE r.ID='31'
+Servers\SIMGOS Production\QueryHistory\5<|||>1<|||>2024-01-18 09:44:05|master|937|SELECT t.NAMA, tt.* FROM tindakan AS t<{{{><}}}>LEFT JOIN tarif_tindakan AS tt<{{{><}}}>ON t.ID=tt.TINDAKAN
+Servers\SIMGOS Production\QueryHistory\6<|||>1<|||>2024-01-18 09:45:38|master|656|SELECT t.NAMA, tt.*, rl.DESKRIPSI FROM tindakan AS t<{{{><}}}>LEFT JOIN tarif_tindakan AS tt<{{{><}}}>ON t.ID=tt.TINDAKAN<{{{><}}}>LEFT JOIN rl_kelas AS rl<{{{><}}}>ON tt.KELAS=rl.ID
+Servers\SIMGOS Production\QueryHistory\7<|||>1<|||>2024-01-18 09:49:52|master|2032|SELECT t.NAMA, rl.DESKRIPSI, tt.* FROM tindakan AS t<{{{><}}}>LEFT JOIN tarif_tindakan AS tt<{{{><}}}>ON t.ID=tt.TINDAKAN<{{{><}}}>LEFT JOIN rl_kelas AS rl<{{{><}}}>ON tt.KELAS=rl.ID
+Servers\SIMGOS2 252\SessionCreated<|||>1<|||>2023-12-13 08:44:27
+Servers\SIMGOS2 252\Host<|||>1<|||>192.168.3.252
+Servers\SIMGOS2 252\WindowsAuth<|||>3<|||>0
+Servers\SIMGOS2 252\CleartextPluginEnabled<|||>3<|||>0
+Servers\SIMGOS2 252\User<|||>1<|||>admin
+Servers\SIMGOS2 252\Password<|||>1<|||>5826524C74783745706A72706A78336C74336E695
+Servers\SIMGOS2 252\LoginPrompt<|||>3<|||>0
+Servers\SIMGOS2 252\Port<|||>1<|||>3306
+Servers\SIMGOS2 252\NetType<|||>3<|||>0
+Servers\SIMGOS2 252\Compressed<|||>3<|||>0
+Servers\SIMGOS2 252\LocalTimeZone<|||>3<|||>0
+Servers\SIMGOS2 252\QueryTimeout<|||>3<|||>30
+Servers\SIMGOS2 252\KeepAlive<|||>3<|||>20
+Servers\SIMGOS2 252\FullTableStatus<|||>3<|||>1
+Servers\SIMGOS2 252\Databases<|||>1<|||>
+Servers\SIMGOS2 252\Library<|||>1<|||>libmariadb.dll
+Servers\SIMGOS2 252\Comment<|||>1<|||>
+Servers\SIMGOS2 252\StartupScriptFilename<|||>1<|||>
+Servers\SIMGOS2 252\TreeBackground<|||>3<|||>536870911
+Servers\SIMGOS2 252\SSHtunnelHost<|||>1<|||>
+Servers\SIMGOS2 252\SSHtunnelHostPort<|||>3<|||>22
+Servers\SIMGOS2 252\SSHtunnelUser<|||>1<|||>
+Servers\SIMGOS2 252\SSHtunnelPassword<|||>1<|||>2
+Servers\SIMGOS2 252\SSHtunnelTimeout<|||>3<|||>4
+Servers\SIMGOS2 252\SSHtunnelPrivateKey<|||>1<|||>
+Servers\SIMGOS2 252\SSHtunnelPort<|||>3<|||>3307
+Servers\SIMGOS2 252\SSL_Active<|||>3<|||>0
+Servers\SIMGOS2 252\SSL_Key<|||>1<|||>
+Servers\SIMGOS2 252\SSL_Cert<|||>1<|||>
+Servers\SIMGOS2 252\SSL_CA<|||>1<|||>
+Servers\SIMGOS2 252\SSL_Cipher<|||>1<|||>
+Servers\SIMGOS2 252\IgnoreDatabasePattern<|||>1<|||>
+Servers\SIMGOS2 252\LogFileDdl<|||>3<|||>0
+Servers\SIMGOS2 252\LogFileDml<|||>3<|||>0
+Servers\SIMGOS2 252\LogFilePath<|||>1<|||>C:\Users\IT & SIMRS\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\SIMGOS2 252\ServerVersionFull<|||>1<|||>8.0.36 - MySQL Community Server - GPL
+Servers\SIMGOS2 252\ConnectCount<|||>3<|||>19
+Servers\SIMGOS2 252\ServerVersion<|||>3<|||>80036
+Servers\SIMGOS2 252\LastConnect<|||>1<|||>2024-02-15 10:49:03
+Servers\SIMGOS2 252\lastUsedDB<|||>1<|||>pendaftaran
+Servers\SIMGOS2 252\RefusedCount<|||>3<|||>11
+Servers\SIMGOS2 252\SshExecutable<|||>1<|||>plink.exe
+Servers\SIMGOS2 252\layanan|order_detil_resep\Filter<|||>1<|||>`ORDER_ID` LIKE '%141010102032310130054%' OR `FARMASI` LIKE '%141010102032310130054%' OR `JUMLAH` LIKE '%141010102032310130054%' OR `DOSIS` LIKE '%141010102032310130054%' OR `ATURAN_PAKAI` LIKE '%141010102032310130054%'<{{{><}}}> OR `KETERANGAN` LIKE '%141010102032310130054%' OR `RACIKAN` LIKE '%141010102032310130054%' OR `GROUP_RACIKAN` LIKE '%141010102032310130054%' OR `PETUNJUK_RACIKAN` LIKE '%141010102032310130054%'<{{{><}}}> OR `JUMLAH_RACIKAN` LIKE '%141010102032310130054%' OR `FREKUENSI` LIKE '%141010102032310130054%' OR `RUTE_PEMBERIAN` LIKE '%141010102032310130054%' OR `STATUS_PEMBERIAN` LIKE '%141010102032310130054%'<{{{><}}}> OR `REF` LIKE '%141010102032310130054%' OR `REF_RIWAYAT_ORDER` LIKE '%141010102032310130054%' OR CAST(`TANGGAL_STOP` AS CHAR) LIKE '%141010102032310130054%' OR `USER_STOP` LIKE '%141010102032310130054%'<{{{><}}}>
+Servers\SIMGOS2 252\layanan|order_detil_resep\RecentFilters\1<|||>1<|||>`ORDER_ID` LIKE '%141010102032310130054%' OR `FARMASI` LIKE '%141010102032310130054%' OR `JUMLAH` LIKE '%141010102032310130054%' OR `DOSIS` LIKE '%141010102032310130054%' OR `ATURAN_PAKAI` LIKE '%141010102032310130054%'<{{{><}}}> OR `KETERANGAN` LIKE '%141010102032310130054%' OR `RACIKAN` LIKE '%141010102032310130054%' OR `GROUP_RACIKAN` LIKE '%141010102032310130054%' OR `PETUNJUK_RACIKAN` LIKE '%141010102032310130054%'<{{{><}}}> OR `JUMLAH_RACIKAN` LIKE '%141010102032310130054%' OR `FREKUENSI` LIKE '%141010102032310130054%' OR `RUTE_PEMBERIAN` LIKE '%141010102032310130054%' OR `STATUS_PEMBERIAN` LIKE '%141010102032310130054%'<{{{><}}}> OR `REF` LIKE '%141010102032310130054%' OR `REF_RIWAYAT_ORDER` LIKE '%141010102032310130054%' OR CAST(`TANGGAL_STOP` AS CHAR) LIKE '%141010102032310130054%' OR `USER_STOP` LIKE '%141010102032310130054%'
+Servers\SIMGOS2 252\layanan|order_resep\Sort<|||>1<|||>1_TANGGAL|
+Servers\SIMGOS2 252\layanan|order_resep\Filter<|||>1<|||>`NOMOR` LIKE '%1010102032312130029%' OR `KUNJUNGAN` LIKE '%1010102032312130029%' OR CAST(`TANGGAL` AS CHAR) LIKE '%1010102032312130029%' OR `DOKTER_DPJP` LIKE '%1010102032312130029%'<{{{><}}}> OR `PEMBERI_RESEP` LIKE '%1010102032312130029%' OR `NO_HP_PEMBERI_RESEP` LIKE '%1010102032312130029%' OR `BERAT_BADAN` LIKE '%1010102032312130029%'<{{{><}}}> OR `TINGGI_BADAN` LIKE '%1010102032312130029%' OR `DIAGNOSA` LIKE '%1010102032312130029%' OR `ALERGI_OBAT` LIKE '%1010102032312130029%' OR `GANGGUAN_FUNGSI_GINJAL` LIKE '%1010102032312130029%'<{{{><}}}> OR `MENYUSUI` LIKE '%1010102032312130029%' OR `HAMIL` LIKE '%1010102032312130029%' OR `RESEP_PASIEN_PULANG` LIKE '%1010102032312130029%' OR `TUJUAN` LIKE '%1010102032312130029%'<{{{><}}}> OR `CITO` LIKE '%1010102032312130029%' OR `KETERANGAN` LIKE '%1010102032312130029%' OR `STATUS_PUASA_PASIEN` LIKE '%1010102032312130029%' OR `LUAS_PERMUKAAN_TUBUH_ANAK` LIKE '%1010102032312130029%'<{{{><}}}> OR `OLEH` LIKE '%1010102032312130029%' OR `STATUS` LIKE '%1010102032312130029%' OR `REF` LIKE '%1010102032312130029%'<{{{><}}}>
+Servers\SIMGOS2 252\layanan|order_resep\RecentFilters\1<|||>1<|||>`NOMOR` LIKE '%1010102032312130029%' OR `KUNJUNGAN` LIKE '%1010102032312130029%' OR CAST(`TANGGAL` AS CHAR) LIKE '%1010102032312130029%' OR `DOKTER_DPJP` LIKE '%1010102032312130029%'<{{{><}}}> OR `PEMBERI_RESEP` LIKE '%1010102032312130029%' OR `NO_HP_PEMBERI_RESEP` LIKE '%1010102032312130029%' OR `BERAT_BADAN` LIKE '%1010102032312130029%'<{{{><}}}> OR `TINGGI_BADAN` LIKE '%1010102032312130029%' OR `DIAGNOSA` LIKE '%1010102032312130029%' OR `ALERGI_OBAT` LIKE '%1010102032312130029%' OR `GANGGUAN_FUNGSI_GINJAL` LIKE '%1010102032312130029%'<{{{><}}}> OR `MENYUSUI` LIKE '%1010102032312130029%' OR `HAMIL` LIKE '%1010102032312130029%' OR `RESEP_PASIEN_PULANG` LIKE '%1010102032312130029%' OR `TUJUAN` LIKE '%1010102032312130029%'<{{{><}}}> OR `CITO` LIKE '%1010102032312130029%' OR `KETERANGAN` LIKE '%1010102032312130029%' OR `STATUS_PUASA_PASIEN` LIKE '%1010102032312130029%' OR `LUAS_PERMUKAAN_TUBUH_ANAK` LIKE '%1010102032312130029%'<{{{><}}}> OR `OLEH` LIKE '%1010102032312130029%' OR `STATUS` LIKE '%1010102032312130029%' OR `REF` LIKE '%1010102032312130029%'
+Servers\SIMGOS2 252\layanan|order_resep\RecentFilters\2<|||>1<|||>`NOMOR` LIKE '%1010102032310130038%' OR `KUNJUNGAN` LIKE '%1010102032310130038%' OR CAST(`TANGGAL` AS CHAR) LIKE '%1010102032310130038%' OR `DOKTER_DPJP` LIKE '%1010102032310130038%'<{{{><}}}> OR `PEMBERI_RESEP` LIKE '%1010102032310130038%' OR `NO_HP_PEMBERI_RESEP` LIKE '%1010102032310130038%' OR `BERAT_BADAN` LIKE '%1010102032310130038%'<{{{><}}}> OR `TINGGI_BADAN` LIKE '%1010102032310130038%' OR `DIAGNOSA` LIKE '%1010102032310130038%' OR `ALERGI_OBAT` LIKE '%1010102032310130038%' OR `GANGGUAN_FUNGSI_GINJAL` LIKE '%1010102032310130038%'<{{{><}}}> OR `MENYUSUI` LIKE '%1010102032310130038%' OR `HAMIL` LIKE '%1010102032310130038%' OR `RESEP_PASIEN_PULANG` LIKE '%1010102032310130038%' OR `TUJUAN` LIKE '%1010102032310130038%'<{{{><}}}> OR `CITO` LIKE '%1010102032310130038%' OR `KETERANGAN` LIKE '%1010102032310130038%' OR `STATUS_PUASA_PASIEN` LIKE '%1010102032310130038%' OR `LUAS_PERMUKAAN_TUBUH_ANAK` LIKE '%1010102032310130038%'<{{{><}}}> OR `OLEH` LIKE '%1010102032310130038%' OR `STATUS` LIKE '%1010102032310130038%' OR `REF` LIKE '%1010102032310130038%'
+Servers\SIMGOS2 252\layanan|order_resep\RecentFilters\3<|||>1<|||>`NOMOR` LIKE '%141010102032309260043%' OR `KUNJUNGAN` LIKE '%141010102032309260043%' OR CAST(`TANGGAL` AS CHAR) LIKE '%141010102032309260043%' OR `DOKTER_DPJP` LIKE '%141010102032309260043%'<{{{><}}}> OR `PEMBERI_RESEP` LIKE '%141010102032309260043%' OR `NO_HP_PEMBERI_RESEP` LIKE '%141010102032309260043%' OR `BERAT_BADAN` LIKE '%141010102032309260043%' OR `TINGGI_BADAN` LIKE '%141010102032309260043%'<{{{><}}}> OR `DIAGNOSA` LIKE '%141010102032309260043%' OR `ALERGI_OBAT` LIKE '%141010102032309260043%' OR `GANGGUAN_FUNGSI_GINJAL` LIKE '%141010102032309260043%' OR `MENYUSUI` LIKE '%141010102032309260043%'<{{{><}}}> OR `HAMIL` LIKE '%141010102032309260043%' OR `RESEP_PASIEN_PULANG` LIKE '%141010102032309260043%' OR `TUJUAN` LIKE '%141010102032309260043%' OR `CITO` LIKE '%141010102032309260043%'<{{{><}}}> OR `KETERANGAN` LIKE '%141010102032309260043%' OR `STATUS_PUASA_PASIEN` LIKE '%141010102032309260043%' OR `LUAS_PERMUKAAN_TUBUH_ANAK` LIKE '%141010102032309260043%' OR `OLEH` LIKE '%141010102032309260043%'<{{{><}}}> OR `STATUS` LIKE '%141010102032309260043%' OR `REF` LIKE '%141010102032309260043%'
+Servers\SIMGOS2 252\layanan|order_resep\RecentFilters\4<|||>1<|||>`NOMOR` LIKE '%141010102032309260042%' OR `KUNJUNGAN` LIKE '%141010102032309260042%' OR CAST(`TANGGAL` AS CHAR) LIKE '%141010102032309260042%' OR `DOKTER_DPJP` LIKE '%141010102032309260042%'<{{{><}}}> OR `PEMBERI_RESEP` LIKE '%141010102032309260042%' OR `NO_HP_PEMBERI_RESEP` LIKE '%141010102032309260042%' OR `BERAT_BADAN` LIKE '%141010102032309260042%' OR `TINGGI_BADAN` LIKE '%141010102032309260042%'<{{{><}}}> OR `DIAGNOSA` LIKE '%141010102032309260042%' OR `ALERGI_OBAT` LIKE '%141010102032309260042%' OR `GANGGUAN_FUNGSI_GINJAL` LIKE '%141010102032309260042%' OR `MENYUSUI` LIKE '%141010102032309260042%'<{{{><}}}> OR `HAMIL` LIKE '%141010102032309260042%' OR `RESEP_PASIEN_PULANG` LIKE '%141010102032309260042%' OR `TUJUAN` LIKE '%141010102032309260042%' OR `CITO` LIKE '%141010102032309260042%'<{{{><}}}> OR `KETERANGAN` LIKE '%141010102032309260042%' OR `STATUS_PUASA_PASIEN` LIKE '%141010102032309260042%' OR `LUAS_PERMUKAAN_TUBUH_ANAK` LIKE '%141010102032309260042%' OR `OLEH` LIKE '%141010102032309260042%'<{{{><}}}> OR `STATUS` LIKE '%141010102032309260042%' OR `REF` LIKE '%141010102032309260042%'
+Servers\SIMGOS2 252\medicalrecord|cppt\Filter<|||>1<|||>`ID` LIKE '%1010102032312130029%' OR `KUNJUNGAN` LIKE '%1010102032312130029%' OR CAST(`TANGGAL` AS CHAR) LIKE '%1010102032312130029%' OR `SUBYEKTIF` LIKE '%1010102032312130029%' OR `OBYEKTIF` LIKE '%1010102032312130029%'<{{{><}}}> OR `ASSESMENT` LIKE '%1010102032312130029%' OR `PLANNING` LIKE '%1010102032312130029%' OR `INSTRUKSI` LIKE '%1010102032312130029%' OR `IMPLEMENTASI` LIKE '%1010102032312130029%'<{{{><}}}> OR `JENIS` LIKE '%1010102032312130029%' OR `TENAGA_MEDIS` LIKE '%1010102032312130029%' OR `STATUS_TBAK_SBAR` LIKE '%1010102032312130029%' OR `RENCANA_PULANG` LIKE '%1010102032312130029%'<{{{><}}}> OR CAST(`TANGGAL_RENCANA_PULANG` AS CHAR) LIKE '%1010102032312130029%' OR `SUB_DEVISI` LIKE '%1010102032312130029%' OR `OLEH` LIKE '%1010102032312130029%' OR `VERIFIKASI` LIKE '%1010102032312130029%'<{{{><}}}> OR `STATUS` LIKE '%1010102032312130029%'<{{{><}}}>
+Servers\SIMGOS2 252\medicalrecord|cppt\RecentFilters\1<|||>1<|||>`ID` LIKE '%1010102032312130029%' OR `KUNJUNGAN` LIKE '%1010102032312130029%' OR CAST(`TANGGAL` AS CHAR) LIKE '%1010102032312130029%' OR `SUBYEKTIF` LIKE '%1010102032312130029%' OR `OBYEKTIF` LIKE '%1010102032312130029%'<{{{><}}}> OR `ASSESMENT` LIKE '%1010102032312130029%' OR `PLANNING` LIKE '%1010102032312130029%' OR `INSTRUKSI` LIKE '%1010102032312130029%' OR `IMPLEMENTASI` LIKE '%1010102032312130029%'<{{{><}}}> OR `JENIS` LIKE '%1010102032312130029%' OR `TENAGA_MEDIS` LIKE '%1010102032312130029%' OR `STATUS_TBAK_SBAR` LIKE '%1010102032312130029%' OR `RENCANA_PULANG` LIKE '%1010102032312130029%'<{{{><}}}> OR CAST(`TANGGAL_RENCANA_PULANG` AS CHAR) LIKE '%1010102032312130029%' OR `SUB_DEVISI` LIKE '%1010102032312130029%' OR `OLEH` LIKE '%1010102032312130029%' OR `VERIFIKASI` LIKE '%1010102032312130029%'<{{{><}}}> OR `STATUS` LIKE '%1010102032312130029%'
+Servers\SIMGOS2 252\medicalrecord|cppt\RecentFilters\2<|||>1<|||>`ID` LIKE '%1010102032310130038%' OR `KUNJUNGAN` LIKE '%1010102032310130038%' OR CAST(`TANGGAL` AS CHAR) LIKE '%1010102032310130038%' OR `SUBYEKTIF` LIKE '%1010102032310130038%' OR `OBYEKTIF` LIKE '%1010102032310130038%'<{{{><}}}> OR `ASSESMENT` LIKE '%1010102032310130038%' OR `PLANNING` LIKE '%1010102032310130038%' OR `INSTRUKSI` LIKE '%1010102032310130038%' OR `IMPLEMENTASI` LIKE '%1010102032310130038%'<{{{><}}}> OR `JENIS` LIKE '%1010102032310130038%' OR `TENAGA_MEDIS` LIKE '%1010102032310130038%' OR `STATUS_TBAK_SBAR` LIKE '%1010102032310130038%' OR `RENCANA_PULANG` LIKE '%1010102032310130038%'<{{{><}}}> OR CAST(`TANGGAL_RENCANA_PULANG` AS CHAR) LIKE '%1010102032310130038%' OR `SUB_DEVISI` LIKE '%1010102032310130038%' OR `OLEH` LIKE '%1010102032310130038%' OR `VERIFIKASI` LIKE '%1010102032310130038%'<{{{><}}}> OR `STATUS` LIKE '%1010102032310130038%'
+Servers\SIMGOS2 252\medicalrecord|cppt\RecentFilters\3<|||>1<|||>`ID` LIKE '%1010102032309260031%' OR `KUNJUNGAN` LIKE '%1010102032309260031%' OR CAST(`TANGGAL` AS CHAR) LIKE '%1010102032309260031%' OR `SUBYEKTIF` LIKE '%1010102032309260031%' OR `OBYEKTIF` LIKE '%1010102032309260031%'<{{{><}}}> OR `ASSESMENT` LIKE '%1010102032309260031%' OR `PLANNING` LIKE '%1010102032309260031%' OR `INSTRUKSI` LIKE '%1010102032309260031%' OR `IMPLEMENTASI` LIKE '%1010102032309260031%' OR `JENIS` LIKE '%1010102032309260031%'<{{{><}}}> OR `TENAGA_MEDIS` LIKE '%1010102032309260031%' OR `STATUS_TBAK_SBAR` LIKE '%1010102032309260031%' OR `RENCANA_PULANG` LIKE '%1010102032309260031%' OR CAST(`TANGGAL_RENCANA_PULANG` AS CHAR) LIKE '%1010102032309260031%'<{{{><}}}> OR `SUB_DEVISI` LIKE '%1010102032309260031%' OR `OLEH` LIKE '%1010102032309260031%' OR `VERIFIKASI` LIKE '%1010102032309260031%' OR `STATUS` LIKE '%1010102032309260031%'
+Servers\SIMGOS2 252\pendaftaran|kunjungan\Filter<|||>1<|||>`NOMOR` LIKE '%1010102032309260031%' OR `NOPEN` LIKE '%1010102032309260031%' OR `RUANGAN` LIKE '%1010102032309260031%' OR CAST(`MASUK` AS CHAR) LIKE '%1010102032309260031%' OR CAST(`KELUAR` AS CHAR) LIKE '%1010102032309260031%'<{{{><}}}> OR `RUANG_KAMAR_TIDUR` LIKE '%1010102032309260031%' OR `REF` LIKE '%1010102032309260031%' OR `DITERIMA_OLEH` LIKE '%1010102032309260031%' OR `BARU` LIKE '%1010102032309260031%' OR `TITIPAN` LIKE '%1010102032309260031%'<{{{><}}}> OR `TITIPAN_KELAS` LIKE '%1010102032309260031%' OR `STATUS` LIKE '%1010102032309260031%' OR `FINAL_HASIL` LIKE '%1010102032309260031%' OR `FINAL_HASIL_OLEH` LIKE '%1010102032309260031%'<{{{><}}}> OR CAST(`FINAL_HASIL_TANGGAL` AS CHAR) LIKE '%1010102032309260031%' OR `DPJP` LIKE '%1010102032309260031%' OR `OTOMATIS` LIKE '%1010102032309260031%'<{{{><}}}>
+Servers\SIMGOS2 252\pendaftaran|kunjungan\RecentFilters\1<|||>1<|||>`NOMOR` LIKE '%1010102032309260031%' OR `NOPEN` LIKE '%1010102032309260031%' OR `RUANGAN` LIKE '%1010102032309260031%' OR CAST(`MASUK` AS CHAR) LIKE '%1010102032309260031%' OR CAST(`KELUAR` AS CHAR) LIKE '%1010102032309260031%'<{{{><}}}> OR `RUANG_KAMAR_TIDUR` LIKE '%1010102032309260031%' OR `REF` LIKE '%1010102032309260031%' OR `DITERIMA_OLEH` LIKE '%1010102032309260031%' OR `BARU` LIKE '%1010102032309260031%' OR `TITIPAN` LIKE '%1010102032309260031%'<{{{><}}}> OR `TITIPAN_KELAS` LIKE '%1010102032309260031%' OR `STATUS` LIKE '%1010102032309260031%' OR `FINAL_HASIL` LIKE '%1010102032309260031%' OR `FINAL_HASIL_OLEH` LIKE '%1010102032309260031%'<{{{><}}}> OR CAST(`FINAL_HASIL_TANGGAL` AS CHAR) LIKE '%1010102032309260031%' OR `DPJP` LIKE '%1010102032309260031%' OR `OTOMATIS` LIKE '%1010102032309260031%'
+Servers\SIMGOS2 252\QueryHistory\27<|||>1<|||>2024-02-13 15:53:02|pendaftaran|31|CALL `lembarFormRawatJalanLayananDokterFisikdanRehab`('37636')
+Servers\SIMGOS2 252\QueryHistory\1<|||>1<|||>2024-02-13 17:04:27|pendaftaran|63|CALL `lembarFormRawatJalanLayananDokterFisikdanRehab`('2210180059')
+Servers\SIMGOS2-DEV\SessionCreated<|||>1<|||>2023-12-13 10:30:34
+Servers\SIMGOS2-DEV\Host<|||>1<|||>192.168.3.200
+Servers\SIMGOS2-DEV\WindowsAuth<|||>3<|||>0
+Servers\SIMGOS2-DEV\CleartextPluginEnabled<|||>3<|||>0
+Servers\SIMGOS2-DEV\User<|||>1<|||>admin
+Servers\SIMGOS2-DEV\Password<|||>1<|||>5A2854595A4E767A397
+Servers\SIMGOS2-DEV\LoginPrompt<|||>3<|||>0
+Servers\SIMGOS2-DEV\Port<|||>1<|||>3308
+Servers\SIMGOS2-DEV\NetType<|||>3<|||>0
+Servers\SIMGOS2-DEV\Compressed<|||>3<|||>0
+Servers\SIMGOS2-DEV\LocalTimeZone<|||>3<|||>0
+Servers\SIMGOS2-DEV\QueryTimeout<|||>3<|||>30
+Servers\SIMGOS2-DEV\KeepAlive<|||>3<|||>20
+Servers\SIMGOS2-DEV\FullTableStatus<|||>3<|||>1
+Servers\SIMGOS2-DEV\Databases<|||>1<|||>
+Servers\SIMGOS2-DEV\Library<|||>1<|||>libmariadb.dll
+Servers\SIMGOS2-DEV\Comment<|||>1<|||>
+Servers\SIMGOS2-DEV\StartupScriptFilename<|||>1<|||>
+Servers\SIMGOS2-DEV\TreeBackground<|||>3<|||>536870911
+Servers\SIMGOS2-DEV\SSHtunnelHost<|||>1<|||>
+Servers\SIMGOS2-DEV\SSHtunnelHostPort<|||>3<|||>22
+Servers\SIMGOS2-DEV\SSHtunnelUser<|||>1<|||>
+Servers\SIMGOS2-DEV\SSHtunnelPassword<|||>1<|||>2
+Servers\SIMGOS2-DEV\SSHtunnelTimeout<|||>3<|||>4
+Servers\SIMGOS2-DEV\SSHtunnelPrivateKey<|||>1<|||>
+Servers\SIMGOS2-DEV\SSHtunnelPort<|||>3<|||>3307
+Servers\SIMGOS2-DEV\SSL_Active<|||>3<|||>0
+Servers\SIMGOS2-DEV\SSL_Key<|||>1<|||>
+Servers\SIMGOS2-DEV\SSL_Cert<|||>1<|||>
+Servers\SIMGOS2-DEV\SSL_CA<|||>1<|||>
+Servers\SIMGOS2-DEV\SSL_Cipher<|||>1<|||>
+Servers\SIMGOS2-DEV\IgnoreDatabasePattern<|||>1<|||>
+Servers\SIMGOS2-DEV\LogFileDdl<|||>3<|||>0
+Servers\SIMGOS2-DEV\LogFileDml<|||>3<|||>0
+Servers\SIMGOS2-DEV\LogFilePath<|||>1<|||>C:\Users\IT & SIMRS\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\SIMGOS2-DEV\ServerVersionFull<|||>1<|||>8.0.11 - MySQL Community Server - GPL
+Servers\SIMGOS2-DEV\ConnectCount<|||>3<|||>34
+Servers\SIMGOS2-DEV\ServerVersion<|||>3<|||>80011
+Servers\SIMGOS2-DEV\LastConnect<|||>1<|||>2024-02-01 09:28:13
+Servers\SIMGOS2-DEV\lastUsedDB<|||>1<|||>bpjs
+Servers\SIMGOS2-DEV\RefusedCount<|||>3<|||>7
+Servers\SIMGOS2-DEV\layanan|order_detil_resep\Filter<|||>1<|||>`ORDER_ID` LIKE '%141010102032307210001%' OR `FARMASI` LIKE '%141010102032307210001%' OR `JUMLAH` LIKE '%141010102032307210001%' OR `DOSIS` LIKE '%141010102032307210001%'<{{{><}}}> OR `ATURAN_PAKAI` LIKE '%141010102032307210001%' OR `KETERANGAN` LIKE '%141010102032307210001%' OR `RACIKAN` LIKE '%141010102032307210001%' OR `GROUP_RACIKAN` LIKE '%141010102032307210001%'<{{{><}}}> OR `PETUNJUK_RACIKAN` LIKE '%141010102032307210001%' OR `JUMLAH_RACIKAN` LIKE '%141010102032307210001%' OR `FREKUENSI` LIKE '%141010102032307210001%' OR `RUTE_PEMBERIAN` LIKE '%141010102032307210001%'<{{{><}}}> OR `STATUS_PEMBERIAN` LIKE '%141010102032307210001%' OR `REF` LIKE '%141010102032307210001%' OR `REF_RIWAYAT_ORDER` LIKE '%141010102032307210001%' OR CAST(`TANGGAL_STOP` AS CHAR) LIKE '%141010102032307210001%'<{{{><}}}> OR `USER_STOP` LIKE '%141010102032307210001%'<{{{><}}}>
+Servers\SIMGOS2-DEV\layanan|order_detil_resep\RecentFilters\1<|||>1<|||>`ORDER_ID` LIKE '%141010102032307210001%' OR `FARMASI` LIKE '%141010102032307210001%' OR `JUMLAH` LIKE '%141010102032307210001%' OR `DOSIS` LIKE '%141010102032307210001%'<{{{><}}}> OR `ATURAN_PAKAI` LIKE '%141010102032307210001%' OR `KETERANGAN` LIKE '%141010102032307210001%' OR `RACIKAN` LIKE '%141010102032307210001%' OR `GROUP_RACIKAN` LIKE '%141010102032307210001%'<{{{><}}}> OR `PETUNJUK_RACIKAN` LIKE '%141010102032307210001%' OR `JUMLAH_RACIKAN` LIKE '%141010102032307210001%' OR `FREKUENSI` LIKE '%141010102032307210001%' OR `RUTE_PEMBERIAN` LIKE '%141010102032307210001%'<{{{><}}}> OR `STATUS_PEMBERIAN` LIKE '%141010102032307210001%' OR `REF` LIKE '%141010102032307210001%' OR `REF_RIWAYAT_ORDER` LIKE '%141010102032307210001%' OR CAST(`TANGGAL_STOP` AS CHAR) LIKE '%141010102032307210001%'<{{{><}}}> OR `USER_STOP` LIKE '%141010102032307210001%'
+Servers\SIMGOS2-DEV\layanan|order_resep\Sort<|||>1<|||>1_TANGGAL|
+Servers\SIMGOS2-DEV\layanan|order_resep\Filter<|||>1<|||>`NOMOR` LIKE '%141010102032307210001%' OR `KUNJUNGAN` LIKE '%141010102032307210001%' OR CAST(`TANGGAL` AS CHAR) LIKE '%141010102032307210001%' OR `DOKTER_DPJP` LIKE '%141010102032307210001%'<{{{><}}}> OR `PEMBERI_RESEP` LIKE '%141010102032307210001%' OR `NO_HP_PEMBERI_RESEP` LIKE '%141010102032307210001%' OR `BERAT_BADAN` LIKE '%141010102032307210001%' OR `TINGGI_BADAN` LIKE '%141010102032307210001%'<{{{><}}}> OR `DIAGNOSA` LIKE '%141010102032307210001%' OR `ALERGI_OBAT` LIKE '%141010102032307210001%' OR `GANGGUAN_FUNGSI_GINJAL` LIKE '%141010102032307210001%' OR `MENYUSUI` LIKE '%141010102032307210001%'<{{{><}}}> OR `HAMIL` LIKE '%141010102032307210001%' OR `RESEP_PASIEN_PULANG` LIKE '%141010102032307210001%' OR `TUJUAN` LIKE '%141010102032307210001%' OR `CITO` LIKE '%141010102032307210001%'<{{{><}}}> OR `KETERANGAN` LIKE '%141010102032307210001%' OR `STATUS_PUASA_PASIEN` LIKE '%141010102032307210001%' OR `LUAS_PERMUKAAN_TUBUH_ANAK` LIKE '%141010102032307210001%'<{{{><}}}> OR `OLEH` LIKE '%141010102032307210001%' OR `STATUS` LIKE '%141010102032307210001%' OR `REF` LIKE '%141010102032307210001%'<{{{><}}}>
+Servers\SIMGOS2-DEV\layanan|order_resep\RecentFilters\1<|||>1<|||>`NOMOR` LIKE '%141010102032307210001%' OR `KUNJUNGAN` LIKE '%141010102032307210001%' OR CAST(`TANGGAL` AS CHAR) LIKE '%141010102032307210001%' OR `DOKTER_DPJP` LIKE '%141010102032307210001%'<{{{><}}}> OR `PEMBERI_RESEP` LIKE '%141010102032307210001%' OR `NO_HP_PEMBERI_RESEP` LIKE '%141010102032307210001%' OR `BERAT_BADAN` LIKE '%141010102032307210001%' OR `TINGGI_BADAN` LIKE '%141010102032307210001%'<{{{><}}}> OR `DIAGNOSA` LIKE '%141010102032307210001%' OR `ALERGI_OBAT` LIKE '%141010102032307210001%' OR `GANGGUAN_FUNGSI_GINJAL` LIKE '%141010102032307210001%' OR `MENYUSUI` LIKE '%141010102032307210001%'<{{{><}}}> OR `HAMIL` LIKE '%141010102032307210001%' OR `RESEP_PASIEN_PULANG` LIKE '%141010102032307210001%' OR `TUJUAN` LIKE '%141010102032307210001%' OR `CITO` LIKE '%141010102032307210001%'<{{{><}}}> OR `KETERANGAN` LIKE '%141010102032307210001%' OR `STATUS_PUASA_PASIEN` LIKE '%141010102032307210001%' OR `LUAS_PERMUKAAN_TUBUH_ANAK` LIKE '%141010102032307210001%'<{{{><}}}> OR `OLEH` LIKE '%141010102032307210001%' OR `STATUS` LIKE '%141010102032307210001%' OR `REF` LIKE '%141010102032307210001%'
+Servers\SIMGOS2-DEV\master|referensi\Filter<|||>1<|||>JENIS = 10
+Servers\SIMGOS2-DEV\master|referensi\RecentFilters\1<|||>1<|||>JENIS = 10
+Servers\SIMGOS2-DEV\medicalrecord|cppt\Filter<|||>1<|||>`ID` LIKE '%1010102032307210001%' OR `KUNJUNGAN` LIKE '%1010102032307210001%' OR CAST(`TANGGAL` AS CHAR) LIKE '%1010102032307210001%' OR `SUBYEKTIF` LIKE '%1010102032307210001%'<{{{><}}}> OR `OBYEKTIF` LIKE '%1010102032307210001%' OR `ASSESMENT` LIKE '%1010102032307210001%' OR `PLANNING` LIKE '%1010102032307210001%' OR `INSTRUKSI` LIKE '%1010102032307210001%'<{{{><}}}> OR `IMPLEMENTASI` LIKE '%1010102032307210001%' OR `JENIS` LIKE '%1010102032307210001%' OR `TENAGA_MEDIS` LIKE '%1010102032307210001%' OR `STATUS_TBAK_SBAR` LIKE '%1010102032307210001%'<{{{><}}}> OR `RENCANA_PULANG` LIKE '%1010102032307210001%' OR CAST(`TANGGAL_RENCANA_PULANG` AS CHAR) LIKE '%1010102032307210001%' OR `SUB_DEVISI` LIKE '%1010102032307210001%'<{{{><}}}> OR `OLEH` LIKE '%1010102032307210001%' OR `VERIFIKASI` LIKE '%1010102032307210001%' OR `STATUS` LIKE '%1010102032307210001%'<{{{><}}}>
+Servers\SIMGOS2-DEV\medicalrecord|cppt\RecentFilters\1<|||>1<|||>`ID` LIKE '%1010102032307210001%' OR `KUNJUNGAN` LIKE '%1010102032307210001%' OR CAST(`TANGGAL` AS CHAR) LIKE '%1010102032307210001%' OR `SUBYEKTIF` LIKE '%1010102032307210001%'<{{{><}}}> OR `OBYEKTIF` LIKE '%1010102032307210001%' OR `ASSESMENT` LIKE '%1010102032307210001%' OR `PLANNING` LIKE '%1010102032307210001%' OR `INSTRUKSI` LIKE '%1010102032307210001%'<{{{><}}}> OR `IMPLEMENTASI` LIKE '%1010102032307210001%' OR `JENIS` LIKE '%1010102032307210001%' OR `TENAGA_MEDIS` LIKE '%1010102032307210001%' OR `STATUS_TBAK_SBAR` LIKE '%1010102032307210001%'<{{{><}}}> OR `RENCANA_PULANG` LIKE '%1010102032307210001%' OR CAST(`TANGGAL_RENCANA_PULANG` AS CHAR) LIKE '%1010102032307210001%' OR `SUB_DEVISI` LIKE '%1010102032307210001%'<{{{><}}}> OR `OLEH` LIKE '%1010102032307210001%' OR `VERIFIKASI` LIKE '%1010102032307210001%' OR `STATUS` LIKE '%1010102032307210001%'
+Servers\SIMGOS2-DEV\pendaftaran|konsul\Sort<|||>1<|||>0_NOMOR|
+Servers\SIMGOS2-DEV\pendaftaran|penjamin\Filter<|||>1<|||>JENIS = 2
+Servers\SIMGOS2-DEV\pendaftaran|penjamin\RecentFilters\1<|||>1<|||>JENIS = 2
+Servers\SIMGOS2-DEV\QueryHistory\12<|||>1<|||>2024-01-04 10:46:57|master|15|SELECT p.*, d.* FROM pegawai AS p INNER JOIN dokter AS d ON p.id=d.id
+Servers\SIMGOS2-DEV\QueryHistory\13<|||>1<|||>2024-01-04 10:47:17|master|31|SELECT p.*, d.* FROM pegawai AS p INNER JOIN dokter AS d ON p.nip=d.nip
+Servers\SIMGOS2-DEV\QueryHistory\14<|||>1<|||>2024-01-05 10:32:44|master|5766|SELECT p.NORM, p.NAMA, p.TEMPAT_LAHIR, p.TANGGAL_LAHIR, p.JENIS_KELAMIN, p.ALAMAT  FROM  master.pasien AS p
+Servers\SIMGOS2-DEV\QueryHistory\15<|||>1<|||>2024-01-05 10:42:50|pendaftaran|46|CALL `CetakTracertPasien`('2310170001')
+Servers\SIMGOS2-DEV\QueryHistory\16<|||>1<|||>2024-01-08 09:20:35|master|1329|CALL `CetakBarcodeRM`('2048')
+Servers\SIMGOS2-DEV\QueryHistory\17<|||>1<|||>2024-01-08 10:01:57|master|47|CALL `CetakBarcodeRM`('2345')
+Servers\SIMGOS2-DEV\QueryHistory\18<|||>1<|||>2024-01-17 09:53:49|pembayaran|3250|CALL `CetakRincianPasien`('123', '2343')
+Servers\SIMGOS2-DEV\QueryHistory\2<|||>1<|||>2024-01-17 10:48:20|master|31|CALL getSJPMM_rawat_inap()
+Servers\SIMGOS2-DEV\QueryHistory\1<|||>1<|||>2024-01-17 10:49:27|master|6734|CALL `getSJPMM_rawat_inap`()
+Servers\SIMGOS2-DEV\QueryHistory\3<|||>1<|||>2024-01-17 10:50:09|master|32|CALL `getSJPMM_rawat_inap`(1)
+Servers\SIMGOS2-DEV\QueryHistory\4<|||>1<|||>2024-01-18 14:04:14|master|4047|	SELECT mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TEMPAT_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	FROM master.pasien mp
+Servers\SIMGOS2-DEV\QueryHistory\5<|||>1<|||>2024-01-18 14:04:51|master|63|	SELECT mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\6<|||>1<|||>2024-01-18 14:05:20|master|2781|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	FROM master.pasien mp
+Servers\SIMGOS2-DEV\QueryHistory\7<|||>1<|||>2024-01-18 14:12:58|master|5735|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN
+Servers\SIMGOS2-DEV\QueryHistory\8<|||>1<|||>2024-01-18 14:16:27|master|0|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,mpg.NAMA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\9<|||>1<|||>2024-01-18 14:16:46|master|15|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,mpg.NAMA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	WHERE mp.NORM = '3'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\10<|||>1<|||>2024-01-18 14:16:50|master|0|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,mpg.NAMA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	WHERE mp.NORM = '1000'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\11<|||>1<|||>2024-01-18 14:16:53|master|0|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,mpg.NAMA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	WHERE mp.NORM = '10002'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\19<|||>1<|||>2024-01-18 14:16:59|master|0|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,mpg.NAMA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	WHERE mp.NORM = '23232'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\20<|||>1<|||>2024-01-18 14:24:06|master|0|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,mpg.NAMA AS DPJP<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	WHERE mp.NORM = '23232'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\21<|||>1<|||>2024-01-18 14:24:47|master|0|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	WHERE mp.NORM = '23232'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\22<|||>1<|||>2024-01-18 14:26:34|master|312|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	WHERE mp.NORM = '23232'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\24<|||>1<|||>2024-01-18 14:31:20|master|0|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul AS pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	WHERE mp.NORM = '2'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\25<|||>1<|||>2024-01-18 14:31:25|master|15|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul AS pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	WHERE mp.NORM = '12000'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\26<|||>1<|||>2024-01-18 14:31:27|master|15|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul AS pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	WHERE mp.NORM = '1200'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\27<|||>1<|||>2024-01-18 14:31:31|master|15|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul AS pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	WHERE mp.NORM = '23232'<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\23<|||>1<|||>2024-01-19 08:11:02|master|47|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul AS pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LIMIT 1
+Servers\SIMGOS2-DEV\QueryHistory\28<|||>1<|||>2024-01-19 08:11:31|master|16|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul AS pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LIMIT 100<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\29<|||>1<|||>2024-01-19 08:12:05|master|12562|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul AS pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\31<|||>1<|||>2024-01-19 08:22:12|layanan|13750|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	,mpg.NAMA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LEFT JOIN master.perawat mpr ON mpg.NIP=mpr.NIP<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\30<|||>1<|||>2024-01-19 08:25:07|layanan|18110|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	,mpg.NIP<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LEFT JOIN master.perawat mpr ON mpg.NIP=mpr.NIP<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\32<|||>1<|||>2024-01-19 08:27:47|layanan|35375|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	,mpg.*<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LEFT JOIN master.perawat mpr ON mpg.NIP=mpr.NIP<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\33<|||>1<|||>2024-01-19 08:45:11|master|21906|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	,mt.NAMA<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LEFT JOIN master.perawat mpr ON mpg.NIP=mpr.NIP<{{{><}}}>	LEFT JOIN layanan.tindakan_medis ltm ON ltm.KUNJUNGAN=pk.NOMOR<{{{><}}}>	LEFT JOIN master.tindakan mt ON ltm.TINDAKAN=mt.ID<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\34<|||>1<|||>2024-01-19 08:45:33|master|11750|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI<{{{><}}}>	,mt.NAMA AS TINDAKAN<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LEFT JOIN master.perawat mpr ON mpg.NIP=mpr.NIP<{{{><}}}>	LEFT JOIN layanan.tindakan_medis ltm ON ltm.KUNJUNGAN=pk.NOMOR<{{{><}}}>	LEFT JOIN master.tindakan mt ON ltm.TINDAKAN=mt.ID<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\36<|||>1<|||>2024-01-19 08:48:20|master|0|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI AS POLI_PEMERIKSA<{{{><}}}>	,mt.NAMA AS TINDAKAN<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LEFT JOIN master.perawat mpr ON mpg.NIP=mpr.NIP<{{{><}}}>	LEFT JOIN layanan.tindakan_medis ltm ON ltm.KUNJUNGAN=pk.NOMOR<{{{><}}}>	LEFT JOIN master.tindakan mt ON ltm.TINDAKAN=mt.ID<{{{><}}}>	WHERE mp.NORM = '38321'<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\37<|||>1<|||>2024-01-19 08:52:40|pendaftaran|0|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI AS POLI_PEMERIKSA<{{{><}}}>	,mt.NAMA AS TINDAKAN<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul pkl ON pk.NOMOR=pkl.KUNJUNGAN<{{{><}}}>	LEFT JOIN master.perawat mpr ON mpg.NIP=mpr.NIP<{{{><}}}>	LEFT JOIN layanan.tindakan_medis ltm ON ltm.KUNJUNGAN=pk.NOMOR<{{{><}}}>	LEFT JOIN master.tindakan mt ON ltm.TINDAKAN=mt.ID<{{{><}}}>	WHERE mp.NORM = '38321'<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\38<|||>1<|||>2024-01-19 08:53:37|pendaftaran|27750|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI AS POLI_PEMERIKSA<{{{><}}}>	,mt.NAMA AS TINDAKAN<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul pkl ON pk.NOMOR=pkl.KUNJUNGAN<{{{><}}}>	LEFT JOIN master.perawat mpr ON mpg.NIP=mpr.NIP<{{{><}}}>	LEFT JOIN layanan.tindakan_medis ltm ON ltm.KUNJUNGAN=pk.NOMOR<{{{><}}}>	LEFT JOIN master.tindakan mt ON ltm.TINDAKAN=mt.ID<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\39<|||>1<|||>2024-01-19 08:55:13|pendaftaran|32|SELECT alasan FROM konsul WHERE kunjungan = '1010101112210310001'
+Servers\SIMGOS2-DEV\QueryHistory\40<|||>1<|||>2024-01-19 08:55:26|pendaftaran|0|SELECT alasan FROM konsul WHERE kunjungan = '1010101112211020001'
+Servers\SIMGOS2-DEV\QueryHistory\41<|||>1<|||>2024-01-19 08:55:47|pendaftaran|0|SELECT alasan FROM konsul WHERE kunjungan = '111010101322210220002'
+Servers\SIMGOS2-DEV\QueryHistory\42<|||>1<|||>2024-01-19 08:57:19|pendaftaran|16344|	SELECT mp.NORM<{{{><}}}>	, mp.NAMA<{{{><}}}>	,TIMESTAMPDIFF(YEAR,mp.TANGGAL_LAHIR,CURDATE()) AS UMUR<{{{><}}}>	,IF(mp.JENIS_KELAMIN = 1, 'Laki-Laki', 'Perempuan') AS JENIS_KELAMIN<{{{><}}}>	,pkl.ALASAN AS DIAGNOSA<{{{><}}}>	,CONCAT(mpg.NAMA, ', ', mpg.GELAR_BELAKANG) AS DPJP<{{{><}}}>	,mr.DESKRIPSI AS POLI_PEMERIKSA<{{{><}}}>	,mt.NAMA AS TINDAKAN<{{{><}}}>	FROM master.pasien mp<{{{><}}}>	LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>	LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>	LEFT JOIN master.pegawai mpg ON pk.DITERIMA_OLEH=mpg.ID<{{{><}}}>	LEFT JOIN master.ruangan mr ON pk.RUANGAN=mr.ID<{{{><}}}>	LEFT JOIN pendaftaran.konsul pkl ON pk.NOMOR=pkl.NOMOR<{{{><}}}>	LEFT JOIN master.perawat mpr ON mpg.NIP=mpr.NIP<{{{><}}}>	LEFT JOIN layanan.tindakan_medis ltm ON ltm.KUNJUNGAN=pk.NOMOR<{{{><}}}>	LEFT JOIN master.tindakan mt ON ltm.TINDAKAN=mt.ID<{{{><}}}>
+Servers\SIMGOS2-DEV\QueryHistory\35<|||>1<|||>2024-01-19 10:12:36|master|6156|SELECT<{{{><}}}>mp.NAMA<{{{><}}}>, mp.NORM<{{{><}}}>, mr.DESKRIPSI<{{{><}}}>FROM master.pasien mp<{{{><}}}>LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>LEFT JOIN master.ruangan mr ON mr.ID=pk.RUANGAN
+Servers\SIMGOS2-DEV\QueryHistory\43<|||>1<|||>2024-01-19 10:19:45|master|0|SELECT<{{{><}}}>mp.NAMA<{{{><}}}>, mp.NORM<{{{><}}}>, mr.DESKRIPSI RUANG<{{{><}}}>FROM master.pasien mp<{{{><}}}>LEFT JOIN pendaftaran.pendaftaran pp ON mp.NORM=pp.NORM<{{{><}}}>LEFT JOIN pendaftaran.kunjungan pk ON pp.NOMOR=pk.NOPEN<{{{><}}}>LEFT JOIN master.ruangan mr ON mr.ID=pk.RUANGAN<{{{><}}}>LIMIT 10
+Servers\SIMGOS2-DEV\QueryHistory\45<|||>1<|||>2024-01-24 10:20:12|master|125|SELECT <{{{><}}}>pp.NORM<{{{><}}}>,mp.NAMA<{{{><}}}>,CONCAT(TIMESTAMPDIFF(YEAR ,mp.TANGGAL_LAHIR,CURDATE()),' Tahun') UMUR<{{{><}}}>,IF(diagnosa.DIAGNOSA IS NULL,'-',diagnosa.DIAGNOSA) DIAGNOSA<{{{><}}}>,iF(mp.JENIS_KELAMIN = 1, 'Laki-laki', 'Perempuan') JENISKELAMIN<{{{><}}}>,DATE_FORMAT(pk.MASUK, '%d-%m-%Y') TGL_PEMERIKSAAN<{{{><}}}>,mr.DESKRIPSI<{{{><}}}>,mt.NAMA TINDAKAN<{{{><}}}>,CONCAT(mpg2.NAMA,', ', mpg2.GELAR_BELAKANG) Perawat<{{{><}}}>,CONCAT(mpg.NAMA,', ', mpg.GELAR_BELAKANG) DPJP<{{{><}}}>FROM pendaftaran.pendaftaran pp<{{{><}}}>LEFT JOIN master.pasien mp ON mp.NORM=pp.NORM<{{{><}}}>LEFT JOIN pendaftaran.tujuan_pasien tp ON pp.NOMOR=tp.NOPEN<{{{><}}}>LEFT JOIN pendaftaran.kunjungan pk ON pk.NOPEN=pp.NOMOR<{{{><}}}>LEFT JOIN master.diagnosa_masuk diagnosa ON pp.DIAGNOSA_MASUK=diagnosa.ID<{{{><}}}>LEFT JOIN master.ruangan mr ON tp.RUANGAN=mr.ID<{{{><}}}>LEFT JOIN layanan.tindakan_medis tm ON tm.KUNJUNGAN=pk.NOMOR<{{{><}}}>LEFT JOIN master.tindakan mt ON tm.TINDAKAN=mt.ID<{{{><}}}>LEFT JOIN master.pegawai mpg ON mpg.ID=pk.DITERIMA_OLEH<{{{><}}}>LEFT JOIN master.perawat_ruangan mpr ON tp.RUANGAN=mpr.RUANGAN<{{{><}}}>LEFT JOIN master.pegawai mpg2 ON mpr.PERAWAT=mpg2.ID<{{{><}}}>,(SELECT pk.NAMA <{{{><}}}>			FROM aplikasi.instansi ai<{{{><}}}>				, master.ppk pk<{{{><}}}>			WHERE ai.PPK = pk.ID) inst<{{{><}}}>WHERE mp.NORM = '37636'
+Servers\SIMGOS2-DEV\QueryHistory\44<|||>1<|||>2024-01-24 10:20:24|master|16|SELECT <{{{><}}}>pp.NORM<{{{><}}}>,mp.NAMA<{{{><}}}>,CONCAT(TIMESTAMPDIFF(YEAR ,mp.TANGGAL_LAHIR,CURDATE()),' Tahun') UMUR<{{{><}}}>,IF(diagnosa.DIAGNOSA IS NULL,'-',diagnosa.DIAGNOSA) DIAGNOSA<{{{><}}}>,iF(mp.JENIS_KELAMIN = 1, 'Laki-laki', 'Perempuan') JENISKELAMIN<{{{><}}}>,DATE_FORMAT(pk.MASUK, '%d-%m-%Y') TGL_PEMERIKSAAN<{{{><}}}>,mr.DESKRIPSI<{{{><}}}>,mt.NAMA TINDAKAN<{{{><}}}>,CONCAT(mpg2.NAMA,', ', mpg2.GELAR_BELAKANG) Perawat<{{{><}}}>,CONCAT(mpg.NAMA,', ', mpg.GELAR_BELAKANG) DPJP<{{{><}}}>FROM pendaftaran.pendaftaran pp<{{{><}}}>LEFT JOIN master.pasien mp ON mp.NORM=pp.NORM<{{{><}}}>LEFT JOIN pendaftaran.tujuan_pasien tp ON pp.NOMOR=tp.NOPEN<{{{><}}}>LEFT JOIN pendaftaran.kunjungan pk ON pk.NOPEN=pp.NOMOR<{{{><}}}>LEFT JOIN master.diagnosa_masuk diagnosa ON pp.DIAGNOSA_MASUK=diagnosa.ID<{{{><}}}>LEFT JOIN master.ruangan mr ON tp.RUANGAN=mr.ID<{{{><}}}>LEFT JOIN layanan.tindakan_medis tm ON tm.KUNJUNGAN=pk.NOMOR<{{{><}}}>LEFT JOIN master.tindakan mt ON tm.TINDAKAN=mt.ID<{{{><}}}>LEFT JOIN master.pegawai mpg ON mpg.ID=pk.DITERIMA_OLEH<{{{><}}}>LEFT JOIN master.perawat_ruangan mpr ON tp.RUANGAN=mpr.RUANGAN<{{{><}}}>LEFT JOIN master.pegawai mpg2 ON mpr.PERAWAT=mpg2.ID<{{{><}}}>,(SELECT pk.NAMA <{{{><}}}>			FROM aplikasi.instansi ai<{{{><}}}>				, master.ppk pk<{{{><}}}>			WHERE ai.PPK = pk.ID) inst<{{{><}}}>WHERE mp.NORM = '37638'
+Servers\SIMGOS2-DEV\QueryHistory\46<|||>1<|||>2024-01-24 10:20:29|master|125|SELECT <{{{><}}}>pp.NORM<{{{><}}}>,mp.NAMA<{{{><}}}>,CONCAT(TIMESTAMPDIFF(YEAR ,mp.TANGGAL_LAHIR,CURDATE()),' Tahun') UMUR<{{{><}}}>,IF(diagnosa.DIAGNOSA IS NULL,'-',diagnosa.DIAGNOSA) DIAGNOSA<{{{><}}}>,iF(mp.JENIS_KELAMIN = 1, 'Laki-laki', 'Perempuan') JENISKELAMIN<{{{><}}}>,DATE_FORMAT(pk.MASUK, '%d-%m-%Y') TGL_PEMERIKSAAN<{{{><}}}>,mr.DESKRIPSI<{{{><}}}>,mt.NAMA TINDAKAN<{{{><}}}>,CONCAT(mpg2.NAMA,', ', mpg2.GELAR_BELAKANG) Perawat<{{{><}}}>,CONCAT(mpg.NAMA,', ', mpg.GELAR_BELAKANG) DPJP<{{{><}}}>FROM pendaftaran.pendaftaran pp<{{{><}}}>LEFT JOIN master.pasien mp ON mp.NORM=pp.NORM<{{{><}}}>LEFT JOIN pendaftaran.tujuan_pasien tp ON pp.NOMOR=tp.NOPEN<{{{><}}}>LEFT JOIN pendaftaran.kunjungan pk ON pk.NOPEN=pp.NOMOR<{{{><}}}>LEFT JOIN master.diagnosa_masuk diagnosa ON pp.DIAGNOSA_MASUK=diagnosa.ID<{{{><}}}>LEFT JOIN master.ruangan mr ON tp.RUANGAN=mr.ID<{{{><}}}>LEFT JOIN layanan.tindakan_medis tm ON tm.KUNJUNGAN=pk.NOMOR<{{{><}}}>LEFT JOIN master.tindakan mt ON tm.TINDAKAN=mt.ID<{{{><}}}>LEFT JOIN master.pegawai mpg ON mpg.ID=pk.DITERIMA_OLEH<{{{><}}}>LEFT JOIN master.perawat_ruangan mpr ON tp.RUANGAN=mpr.RUANGAN<{{{><}}}>LEFT JOIN master.pegawai mpg2 ON mpr.PERAWAT=mpg2.ID<{{{><}}}>,(SELECT pk.NAMA <{{{><}}}>			FROM aplikasi.instansi ai<{{{><}}}>				, master.ppk pk<{{{><}}}>			WHERE ai.PPK = pk.ID) inst<{{{><}}}>WHERE mp.NORM = '37639'
+Servers\SIMGOS2-DEV\QueryHistory\47<|||>1<|||>2024-01-29 05:19:35|master|16|SELECT *<{{{><}}}>FROM master.pasien MP<{{{><}}}>WHERE MP.NORM = '5'
+Servers\SIMGOS2-DEV\QueryHistory\48<|||>1<|||>2024-01-29 05:20:46|master|0|CALL `CetakData`('2')
+Servers\SIMGOS2-DEV\QueryHistory\49<|||>1<|||>2024-01-30 03:20:23|pendaftaran|0|CALL `CetakSJPRJ`('2210040022')
+Servers\SIMGOS2-DEV\QueryHistory\50<|||>1<|||>2024-01-30 03:21:29|pendaftaran|31|CALL `CetakSJPRJ`('2203010002')
+Servers\SIMGOS2-DEV\QueryHistory\51<|||>1<|||>2024-01-30 03:22:07|pendaftaran|125|CALL `CetakSJPRJ`('2302060098')
+Servers\Unnamed\SessionCreated<|||>1<|||>2024-02-13 15:01:39
+Servers\Unnamed\Host<|||>1<|||>19
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>7
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SshExecutable<|||>1<|||>
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>1
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\IgnoreDatabasePattern<|||>1<|||>
+Servers\Unnamed\LogFileDdl<|||>3<|||>0
+Servers\Unnamed\LogFileDml<|||>3<|||>0
+Servers\Unnamed\LogFilePath<|||>1<|||>C:\Users\cacan\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
