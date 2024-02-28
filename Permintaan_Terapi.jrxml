@@ -36,12 +36,19 @@ Website: www.sambanglihum.info, Email: rsjsambanglihum@yahoo.com]]></text>
 				</textElement>
 				<text><![CDATA[PEMERINTAH PROVINSI KALIMANTAN SELATAN]]></text>
 			</staticText>
+			<image>
+				<reportElement stretchType="RelativeToTallestObject" x="11" y="9" width="60" height="55" uuid="d71de210-3ad8-4881-968a-614127bc33d3">
+					<property name="com.jaspersoft.studio.unit.width" value="px"/>
+					<property name="com.jaspersoft.studio.unit.height" value="px"/>
+				</reportElement>
+				<imageExpression><![CDATA[$P{IMAGES_PATH} + "kalsel.png"]]></imageExpression>
+			</image>
 		</band>
 	</columnHeader>
 	<detail>
 		<band height="433" splitType="Stretch">
 			<staticText>
-				<reportElement x="0" y="10" width="99" height="23" uuid="cfac2667-87d4-42b3-b7d5-9b06b8ff622e">
+				<reportElement x="0" y="8" width="99" height="25" uuid="cfac2667-87d4-42b3-b7d5-9b06b8ff622e">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
 				<box>
@@ -55,7 +62,7 @@ Website: www.sambanglihum.info, Email: rsjsambanglihum@yahoo.com]]></text>
 				<text><![CDATA[No RM/REG]]></text>
 			</staticText>
 			<staticText>
-				<reportElement x="99" y="10" width="456" height="23" uuid="add65998-00c8-4928-8561-c935d5c328a8">
+				<reportElement x="99" y="8" width="456" height="25" uuid="add65998-00c8-4928-8561-c935d5c328a8">
 					<property name="com.jaspersoft.studio.unit.height" value="px"/>
 				</reportElement>
 				<box>
